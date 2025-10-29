@@ -1,0 +1,140 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "T300",
+      "lng": 113.55269,
+      "name": "ESPARTEIRO/LOU LIM IEOK",
+      "lat": 22.162632,
+      "stationId": "10035"
+    },
+    {
+      "code": "T303",
+      "lng": 113.55935,
+      "name": "UNIVERSIDADE DE TURISMO DE MACAU",
+      "lat": 22.16351,
+      "stationId": "10038"
+    },
+    {
+      "code": "T305",
+      "lng": 113.55639,
+      "name": "UNIVERSIDADE DA CIDADE",
+      "lat": 22.16387,
+      "stationId": "10040"
+    },
+    {
+      "code": "T307",
+      "lng": 113.55502,
+      "name": "ROTUNDA DR.CARLOS A. C. P. D'ASSUMPÇÃO",
+      "lat": 22.16259,
+      "stationId": "10042"
+    },
+    {
+      "code": "T330/1",
+      "lng": 113.54982,
+      "name": "ROTUNDA LEONEL SOUSA",
+      "lat": 22.163864,
+      "stationId": "10073"
+    },
+    {
+      "code": "T330/4",
+      "lng": 113.547714,
+      "name": "ROTUNDA LEONEL SOUSA",
+      "lat": 22.164154,
+      "stationId": "10074"
+    },
+    {
+      "code": "T330/2",
+      "lng": 113.54836,
+      "name": "ROTUNDA LEONEL SOUSA",
+      "lat": 22.164045,
+      "stationId": "10075"
+    },
+    {
+      "code": "T334",
+      "lng": 113.54378,
+      "name": "JARDINS DO OCEANO/ BAUHINIA COURT",
+      "lat": 22.161175,
+      "stationId": "10079"
+    },
+    {
+      "code": "T335",
+      "lng": 113.54376,
+      "name": "PLAZA OCEANO",
+      "lat": 22.16079,
+      "stationId": "10080"
+    },
+    {
+      "code": "T336/1",
+      "lng": 113.543,
+      "name": "TERRAÇO PANORÂMICO DOS JARDINS DO OCEANO",
+      "lat": 22.16161,
+      "stationId": "10082"
+    },
+    {
+      "code": "T336/2",
+      "lng": 113.54291,
+      "name": "TERRAÇO PANORÂMICO DOS JARDINS DO OCEANO",
+      "lat": 22.16146,
+      "stationId": "10083"
+    },
+    {
+      "code": "T337",
+      "lng": 113.54213,
+      "name": "EDIFÍCIO JARDIM BEIRA-MAR",
+      "lat": 22.15849,
+      "stationId": "10084"
+    },
+    {
+      "code": "T338",
+      "lng": 113.54222,
+      "name": "CENTRO DE SAÚDE DOS JARDINS DO OCEANO",
+      "lat": 22.159492,
+      "stationId": "10085"
+    },
+    {
+      "code": "T343",
+      "lng": 113.5615,
+      "name": "JARDIM HOI VAN / HOI CHENG",
+      "lat": 22.162298,
+      "stationId": "10090"
+    },
+    {
+      "code": "T403",
+      "lng": 113.55366,
+      "name": "ESPARTEIRO/ REGENCY",
+      "lat": 22.162773,
+      "stationId": "10155"
+    },
+    {
+      "code": "T428",
+      "lng": 113.55893,
+      "name": "TJOI LONG SEA VIEW/BLOCO 1",
+      "lat": 22.16565,
+      "stationId": "65909"
+    },
+    {
+      "code": "T431",
+      "lng": 113.54169,
+      "name": "PONTE DE SAI VAN / AV. DO OCEANO",
+      "lat": 22.16263,
+      "stationId": "67169"
+    },
+    {
+      "code": "T430",
+      "lng": 113.54169,
+      "name": "JARDINS DO OCEANO / ROSE COURT",
+      "lat": 22.16217,
+      "stationId": "67170"
+    },
+    {
+      "code": "T432/2",
+      "lng": 113.560905,
+      "name": "EDIFÍCIO IAT SENG",
+      "lat": 22.163824,
+      "stationId": "67391"
+    }
+  ]
+}

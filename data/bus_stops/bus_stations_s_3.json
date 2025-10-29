@@ -1,0 +1,329 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M2",
+      "lng": 113.55702,
+      "name": "PÉROLA ORIENTAL / TERMINAL",
+      "lat": 22.21049,
+      "stationId": "10173"
+    },
+    {
+      "code": "M11",
+      "lng": 113.548294,
+      "name": "EST. ARCO/ TEMPLO LIN FUNG",
+      "lat": 22.210152,
+      "stationId": "10186"
+    },
+    {
+      "code": "M30",
+      "lng": 113.5508,
+      "name": "RUA CINCO/AREIA PRETA",
+      "lat": 22.208471,
+      "stationId": "10213"
+    },
+    {
+      "code": "M35/2",
+      "lng": 113.55224,
+      "name": "VENC. MORAIS/EDF. MONG SIN",
+      "lat": 22.20685,
+      "stationId": "10218"
+    },
+    {
+      "code": "M38",
+      "lng": 113.54958,
+      "name": "EDF. MONG IN",
+      "lat": 22.205748,
+      "stationId": "10221"
+    },
+    {
+      "code": "M39",
+      "lng": 113.54957,
+      "name": "TDM",
+      "lat": 22.20592,
+      "stationId": "10222"
+    },
+    {
+      "code": "M40",
+      "lng": 113.55135,
+      "name": "EDF. FOK HOI",
+      "lat": 22.205704,
+      "stationId": "10223"
+    },
+    {
+      "code": "M43",
+      "lng": 113.55185,
+      "name": "JARDIM MONTANHA RUSSA",
+      "lat": 22.20316,
+      "stationId": "10226"
+    },
+    {
+      "code": "M46/1",
+      "lng": 113.55173,
+      "name": "CAMPO  D. BOSCO",
+      "lat": 22.2026,
+      "stationId": "10229"
+    },
+    {
+      "code": "M47",
+      "lng": 113.55303,
+      "name": "EST. BELA VISTA / OBRA DAS MÃES",
+      "lat": 22.20326,
+      "stationId": "10230"
+    },
+    {
+      "code": "M49",
+      "lng": 113.554504,
+      "name": "EDF. MONG SON / CENTR. SERV. RAEM NA AV. VENC. MORAIS - 1",
+      "lat": 22.204983,
+      "stationId": "10233"
+    },
+    {
+      "code": "M50",
+      "lng": 113.5575,
+      "name": "AV. 1º DE MAIO / KWONG WA",
+      "lat": 22.20781,
+      "stationId": "10234"
+    },
+    {
+      "code": "M51",
+      "lng": 113.55621,
+      "name": "AV. NORDESTE/ KWONG WA",
+      "lat": 22.207685,
+      "stationId": "10235"
+    },
+    {
+      "code": "M52",
+      "lng": 113.55998,
+      "name": "RUA DOS PESCADORES/DSAL",
+      "lat": 22.20477,
+      "stationId": "10236"
+    },
+    {
+      "code": "M53",
+      "lng": 113.55991,
+      "name": "R BEND/DSAL",
+      "lat": 22.204666,
+      "stationId": "10237"
+    },
+    {
+      "code": "M54",
+      "lng": 113.554344,
+      "name": "CEM",
+      "lat": 22.203829,
+      "stationId": "10238"
+    },
+    {
+      "code": "M64",
+      "lng": 113.55707,
+      "name": "R. NOVA AREIA PRETA/ NAM WA",
+      "lat": 22.206322,
+      "stationId": "10249"
+    },
+    {
+      "code": "M66",
+      "lng": 113.55463,
+      "name": "EST. DO RESERVATÓRIO",
+      "lat": 22.19974,
+      "stationId": "10251"
+    },
+    {
+      "code": "M104",
+      "lng": 113.54981,
+      "name": "TEMPLO KUN IAM",
+      "lat": 22.20418,
+      "stationId": "10293"
+    },
+    {
+      "code": "M105",
+      "lng": 113.54797,
+      "name": "FORTE MONG-HÁ",
+      "lat": 22.20569,
+      "stationId": "10294"
+    },
+    {
+      "code": "M215",
+      "lng": 113.552765,
+      "name": "EDF. IND. FÔK TAI",
+      "lat": 22.208967,
+      "stationId": "10426"
+    },
+    {
+      "code": "M219",
+      "lng": 113.55523,
+      "name": "AV. 1º DE MAIO",
+      "lat": 22.20967,
+      "stationId": "10431"
+    },
+    {
+      "code": "M226",
+      "lng": 113.55429,
+      "name": "R.1 DE MAIO/ESCOLA LUSO-CHINESA TÉCNICO-PROFISSIONAL",
+      "lat": 22.20983,
+      "stationId": "10440"
+    },
+    {
+      "code": "M230",
+      "lng": 113.552895,
+      "name": "AV. ALM. MAGALHÃES CORREIA",
+      "lat": 22.208412,
+      "stationId": "10444"
+    },
+    {
+      "code": "M231",
+      "lng": 113.554306,
+      "name": "AV. LESTE DO HIPÓDROMO / CENTRO DE SAÚDE DA AREIA PRETA",
+      "lat": 22.21251,
+      "stationId": "10445"
+    },
+    {
+      "code": "M232",
+      "lng": 113.554344,
+      "name": "RUA 1 DE MAIO / EDF. U WA",
+      "lat": 22.209703,
+      "stationId": "10446"
+    },
+    {
+      "code": "M233",
+      "lng": 113.55534,
+      "name": "AV. NORDESTE/ EDF. TONG WA",
+      "lat": 22.206802,
+      "stationId": "10447"
+    },
+    {
+      "code": "M234",
+      "lng": 113.55521,
+      "name": "AV. NORDESTE/ EDF. HOI PAN",
+      "lat": 22.20688,
+      "stationId": "10448"
+    },
+    {
+      "code": "M235/1",
+      "lng": 113.55718,
+      "name": "AV. NORDESTE/ EDF. POLY TEX",
+      "lat": 22.20893,
+      "stationId": "10449"
+    },
+    {
+      "code": "M236",
+      "lng": 113.555016,
+      "name": "R.CENTRAL DA AREIA PRETA/CENTRO DE SAÚDE DA AREIA PRETA",
+      "lat": 22.211748,
+      "stationId": "10450"
+    },
+    {
+      "code": "M247",
+      "lng": 113.55578,
+      "name": "LA MARINA",
+      "lat": 22.213383,
+      "stationId": "10462"
+    },
+    {
+      "code": "M272",
+      "lng": 113.5494,
+      "name": "SUNNY VIEW GARDEN",
+      "lat": 22.20452,
+      "stationId": "10487"
+    },
+    {
+      "code": "M48",
+      "lng": 113.5544,
+      "name": "VENCESLAU MORAIS / EDF. AIRWAY",
+      "lat": 22.205185,
+      "stationId": "66833"
+    },
+    {
+      "code": "M206",
+      "lng": 113.55441,
+      "name": "R. NOVA AREIA PRETA/ EDF. KIN WA",
+      "lat": 22.208504,
+      "stationId": "66869"
+    },
+    {
+      "code": "M36",
+      "lng": 113.55263,
+      "name": "TRAV. VENC. MORAIS",
+      "lat": 22.20666,
+      "stationId": "67033"
+    },
+    {
+      "code": "M246",
+      "lng": 113.55256,
+      "name": "RUA GRACIOSA",
+      "lat": 22.21052,
+      "stationId": "67551"
+    },
+    {
+      "code": "M55",
+      "lng": 113.55454,
+      "name": "AV. NORDESTE  / NAM OU",
+      "lat": 22.206175,
+      "stationId": "67609"
+    },
+    {
+      "code": "M46/2",
+      "lng": 113.55185,
+      "name": "CAMPO  D. BOSCO",
+      "lat": 22.202496,
+      "stationId": "68269"
+    },
+    {
+      "code": "M35/1",
+      "lng": 113.552444,
+      "name": "VENC. MORAIS/EDF. MONG SIN",
+      "lat": 22.206669,
+      "stationId": "69010"
+    },
+    {
+      "code": "M33",
+      "lng": 113.55092,
+      "name": "XAVIER PEREIRA / EDF. MONG TAK",
+      "lat": 22.207361,
+      "stationId": "69369"
+    },
+    {
+      "code": "M32/2",
+      "lng": 113.55126,
+      "name": "MONG HÁ / TERMINAL",
+      "lat": 22.206768,
+      "stationId": "69390"
+    },
+    {
+      "code": "M32/4",
+      "lng": 113.55119,
+      "name": "MONG HÁ / TERMINAL",
+      "lat": 22.206638,
+      "stationId": "69409"
+    },
+    {
+      "code": "M238",
+      "lng": 113.5536,
+      "name": "EST. MARGINAL DA AREIA PRETA",
+      "lat": 22.20761,
+      "stationId": "69410"
+    },
+    {
+      "code": "M235/2",
+      "lng": 113.557335,
+      "name": "AV. NORDESTE/ EDF. POLY TEX",
+      "lat": 22.20911,
+      "stationId": "69849"
+    },
+    {
+      "code": "M56",
+      "lng": 113.55427,
+      "name": "EDF. MONG SON / CENTR. SERV. RAEM NA AV. VENC. MORAIS - 2",
+      "lat": 22.204615,
+      "stationId": "70149"
+    },
+    {
+      "code": "M286",
+      "lng": 113.559685,
+      "name": "AV PÉROLA ORIENTAL / LOK KOI",
+      "lat": 22.208746,
+      "stationId": "70209"
+    }
+  ]
+}

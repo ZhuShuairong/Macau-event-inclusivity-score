@@ -1,0 +1,406 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "C650",
+      "lng": 113.56061,
+      "name": "EST. SEAK PAI VAN / PRAIA PARK",
+      "lat": 22.13136,
+      "stationId": "10001"
+    },
+    {
+      "code": "C651",
+      "lng": 113.56116,
+      "name": "KARTÓDROMO DE COLOANE",
+      "lat": 22.13149,
+      "stationId": "10002"
+    },
+    {
+      "code": "C682",
+      "lng": 113.558365,
+      "name": "ROTUNDA DA HARMONIA",
+      "lat": 22.131845,
+      "stationId": "10033"
+    },
+    {
+      "code": "C683",
+      "lng": 113.55822,
+      "name": "CENTRO DE EXM. DE CONDUÇÃO DOS AUTO. PESADOS",
+      "lat": 22.131708,
+      "stationId": "10034"
+    },
+    {
+      "code": "T372",
+      "lng": 113.56006,
+      "name": "EST. F. DE LÓTUS / STUDIO CITY",
+      "lat": 22.13968,
+      "stationId": "10108"
+    },
+    {
+      "code": "T359",
+      "lng": 113.56359,
+      "name": "ROTUNDA FLOR DE LÓTUS",
+      "lat": 22.14091,
+      "stationId": "10111"
+    },
+    {
+      "code": "T363/1",
+      "lng": 113.56369,
+      "name": "EST. DO ISTMO / VENETIAN",
+      "lat": 22.14925,
+      "stationId": "10115"
+    },
+    {
+      "code": "T364/1",
+      "lng": 113.55494,
+      "name": "EST. BAÍA N. S. ESPERANÇA / QUARTEL",
+      "lat": 22.15085,
+      "stationId": "10116"
+    },
+    {
+      "code": "T365/1",
+      "lng": 113.555084,
+      "name": "PAI KOK / GALAXY",
+      "lat": 22.150478,
+      "stationId": "10117"
+    },
+    {
+      "code": "T367",
+      "lng": 113.5624,
+      "name": "EST. BAÍA N. S. ESPERANÇA / ISTMO",
+      "lat": 22.15043,
+      "stationId": "10119"
+    },
+    {
+      "code": "T375",
+      "lng": 113.56402,
+      "name": "EST. DO ISTMO/ C.O.D.",
+      "lat": 22.14936,
+      "stationId": "10127"
+    },
+    {
+      "code": "T376/2",
+      "lng": 113.56342,
+      "name": "EST. DO ISTMO / PARISIAN",
+      "lat": 22.144346,
+      "stationId": "10128"
+    },
+    {
+      "code": "T379",
+      "lng": 113.563805,
+      "name": "EST.DO ISTMO / LE JARDIN",
+      "lat": 22.143818,
+      "stationId": "10131"
+    },
+    {
+      "code": "T385",
+      "lng": 113.567726,
+      "name": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-1",
+      "lat": 22.138414,
+      "stationId": "10137"
+    },
+    {
+      "code": "T386",
+      "lng": 113.56448,
+      "name": "EST. F. DE LÓTUS / ROTUNDA F. DE LÓTUS-2",
+      "lat": 22.13906,
+      "stationId": "10138"
+    },
+    {
+      "code": "T387",
+      "lng": 113.56891,
+      "name": "JOGOS DA ÁSIA ORIENTAL / CENTRO DE BOWLING",
+      "lat": 22.143438,
+      "stationId": "10139"
+    },
+    {
+      "code": "T388",
+      "lng": 113.568634,
+      "name": "JOGOS DA ÁSIA ORIENTAL / LE JARDIN",
+      "lat": 22.143433,
+      "stationId": "10140"
+    },
+    {
+      "code": "T389",
+      "lng": 113.56858,
+      "name": "N. D. DOS J. DA ÁSIA ORIENTAL DE MACAU",
+      "lat": 22.139902,
+      "stationId": "10141"
+    },
+    {
+      "code": "T392",
+      "lng": 113.56545,
+      "name": "AV. DR. HENRY FOK / C.O.D.",
+      "lat": 22.15026,
+      "stationId": "10144"
+    },
+    {
+      "code": "T394",
+      "lng": 113.55811,
+      "name": "AV. CIDADE NOVA/ VENETIAN",
+      "lat": 22.14881,
+      "stationId": "10146"
+    },
+    {
+      "code": "T395",
+      "lng": 113.55792,
+      "name": "AV. CIDADE NOVA/ GALAXY",
+      "lat": 22.14883,
+      "stationId": "10147"
+    },
+    {
+      "code": "T396",
+      "lng": 113.55791,
+      "name": "COTAI OESTE / COTAI EXPO",
+      "lat": 22.144697,
+      "stationId": "10148"
+    },
+    {
+      "code": "T397",
+      "lng": 113.55767,
+      "name": "COTAI OESTE / GALAXY",
+      "lat": 22.14478,
+      "stationId": "10149"
+    },
+    {
+      "code": "T399",
+      "lng": 113.56933,
+      "name": "COTAI LESTE / WYNN PALACE",
+      "lat": 22.147207,
+      "stationId": "10151"
+    },
+    {
+      "code": "T400",
+      "lng": 113.56882,
+      "name": "COTAI LESTE / C.O.D.",
+      "lat": 22.14915,
+      "stationId": "10152"
+    },
+    {
+      "code": "T404",
+      "lng": 113.57537,
+      "name": "CENTRO DE APRENDIZAGEM E EXAMES DE CONDUÇÃO",
+      "lat": 22.15128,
+      "stationId": "10156"
+    },
+    {
+      "code": "T407",
+      "lng": 113.569626,
+      "name": "AV.DR.HENRY FOK / WYNN PALACE",
+      "lat": 22.150105,
+      "stationId": "10491"
+    },
+    {
+      "code": "T434",
+      "lng": 113.57572,
+      "name": "AV. AEROPORTO / PALÁCIO GRANDE LISBOA",
+      "lat": 22.144674,
+      "stationId": "10862"
+    },
+    {
+      "code": "T433",
+      "lng": 113.573395,
+      "name": "R. TIRO / PALÁCIO GRANDE LISBOA",
+      "lat": 22.145103,
+      "stationId": "10864"
+    },
+    {
+      "code": "T414",
+      "lng": 113.56697,
+      "name": "AV.DOPROGRESSO/MGM COTAI",
+      "lat": 22.14547,
+      "stationId": "65865"
+    },
+    {
+      "code": "T415",
+      "lng": 113.56679,
+      "name": "NOVA CIDADE DE COTAL",
+      "lat": 22.1418,
+      "stationId": "65866"
+    },
+    {
+      "code": "T420",
+      "lng": 113.551506,
+      "name": "AV. M. FLOR DE LÓTUS / GALAXY-1",
+      "lat": 22.149488,
+      "stationId": "65873"
+    },
+    {
+      "code": "T425",
+      "lng": 113.55234,
+      "name": "ROTUNDA MARGINAL/ EST. DO DIQUE OESTE",
+      "lat": 22.14109,
+      "stationId": "65930"
+    },
+    {
+      "code": "T424",
+      "lng": 113.55266,
+      "name": "ROTUNDA MARGINAL / ZONAS ECOLÓGICAS",
+      "lat": 22.141407,
+      "stationId": "65931"
+    },
+    {
+      "code": "T360",
+      "lng": 113.563324,
+      "name": "EST. DO ISTMO / STUDIO CITY",
+      "lat": 22.140734,
+      "stationId": "67429"
+    },
+    {
+      "code": "T378",
+      "lng": 113.561584,
+      "name": "AV. DE COTAI / STUDIO CITY",
+      "lat": 22.142475,
+      "stationId": "67549"
+    },
+    {
+      "code": "T377",
+      "lng": 113.5616,
+      "name": "AV. DE COTAI / PARISIAN",
+      "lat": 22.142717,
+      "stationId": "67550"
+    },
+    {
+      "code": "T349",
+      "lng": 113.574646,
+      "name": "R. DA CENTRAL TÉRMICA DE COLOANE",
+      "lat": 22.138884,
+      "stationId": "68229"
+    },
+    {
+      "code": "T348",
+      "lng": 113.57434,
+      "name": "CENTRAL TÉRMICA DE COLOANE",
+      "lat": 22.138521,
+      "stationId": "68230"
+    },
+    {
+      "code": "T376/1",
+      "lng": 113.56341,
+      "name": "EST. DO ISTMO / PARISIAN",
+      "lat": 22.144028,
+      "stationId": "68250"
+    },
+    {
+      "code": "T364/2",
+      "lng": 113.555305,
+      "name": "EST. BAÍA N. S. ESPERANÇA / QUARTEL",
+      "lat": 22.150702,
+      "stationId": "68689"
+    },
+    {
+      "code": "C700",
+      "lng": 113.56857,
+      "name": "Instituto de Enfermagem Kiang Wu de Macau",
+      "lat": 22.136301,
+      "stationId": "69089"
+    },
+    {
+      "code": "T365/2",
+      "lng": 113.55465,
+      "name": "PAI KOK / GALAXY",
+      "lat": 22.15065,
+      "stationId": "69109"
+    },
+    {
+      "code": "T426",
+      "lng": 113.55258,
+      "name": "TÚNEL S. DA UM / CLUBE DE GOLFE",
+      "lat": 22.134796,
+      "stationId": "69129"
+    },
+    {
+      "code": "T427",
+      "lng": 113.55228,
+      "name": "TÚNEL S. DA UM / EST. DO DIQUE OESTE",
+      "lat": 22.133835,
+      "stationId": "69130"
+    },
+    {
+      "code": "T355/2",
+      "lng": 113.56027,
+      "name": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS",
+      "lat": 22.138922,
+      "stationId": "69154"
+    },
+    {
+      "code": "T418",
+      "lng": 113.57254,
+      "name": "AV. DO AEROPORTO / OFICINA DO METRO LIGEIRO",
+      "lat": 22.149933,
+      "stationId": "69190"
+    },
+    {
+      "code": "T419",
+      "lng": 113.57238,
+      "name": "AV. DO AEROPORTO / WYNN PALACE",
+      "lat": 22.149803,
+      "stationId": "69209"
+    },
+    {
+      "code": "T355/1",
+      "lng": 113.56074,
+      "name": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS",
+      "lat": 22.1389,
+      "stationId": "69309"
+    },
+    {
+      "code": "T435",
+      "lng": 113.572334,
+      "name": "RUA DA PATINAGEM / LISBOETA",
+      "lat": 22.141102,
+      "stationId": "69449"
+    },
+    {
+      "code": "T436",
+      "lng": 113.57212,
+      "name": "RUA DA PATINAGEM / N. D. DOS J. DA ÁSIA ORIENTAL",
+      "lat": 22.13906,
+      "stationId": "69469"
+    },
+    {
+      "code": "T380",
+      "lng": 113.56389,
+      "name": "EST.DO ISTMO / LONDONER",
+      "lat": 22.146101,
+      "stationId": "69489"
+    },
+    {
+      "code": "T384",
+      "lng": 113.56758,
+      "name": "EST. F. DE LóTUS / AV. DA NAVE DESPORTIVA",
+      "lat": 22.138664,
+      "stationId": "69589"
+    },
+    {
+      "code": "T363/2",
+      "lng": 113.563705,
+      "name": "EST. DO ISTMO / VENETIAN",
+      "lat": 22.149446,
+      "stationId": "69652"
+    },
+    {
+      "code": "C702",
+      "lng": 113.566414,
+      "name": "Hospital Macau Union / Edf. de Multi-Serviços",
+      "lat": 22.135363,
+      "stationId": "69969"
+    },
+    {
+      "code": "C701",
+      "lng": 113.564835,
+      "name": "HOSPITAL MACAU UNION",
+      "lat": 22.136993,
+      "stationId": "69989"
+    },
+    {
+      "code": "T398",
+      "lng": 113.56904,
+      "name": "AV. NAVE DESPORTIVA / MGM COTAI",
+      "lat": 22.14662,
+      "stationId": "70129"
+    }
+  ]
+}

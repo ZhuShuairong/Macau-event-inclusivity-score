@@ -1,0 +1,35 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M800/7",
+      "lng": 113.5744,
+      "name": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
+      "lat": 22.20147,
+      "stationId": "68289"
+    },
+    {
+      "code": "M800/8",
+      "lng": 113.57426,
+      "name": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
+      "lat": 22.201475,
+      "stationId": "68309"
+    },
+    {
+      "code": "M800/4",
+      "lng": 113.57484,
+      "name": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
+      "lat": 22.20189,
+      "stationId": "70089"
+    },
+    {
+      "code": "M800/6",
+      "lng": 113.574646,
+      "name": "POSTO FRONTEIRIÇO DA PONTE HONG KONG-ZHUHAI-MACAU",
+      "lat": 22.201468,
+      "stationId": "70173"
+    }
+  ]
+}

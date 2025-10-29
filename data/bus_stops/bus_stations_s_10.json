@@ -1,0 +1,154 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M69/2",
+      "lng": 113.54484,
+      "name": "HOTEL LISBOA",
+      "lat": 22.18923,
+      "stationId": "10257"
+    },
+    {
+      "code": "M177",
+      "lng": 113.53772,
+      "name": "TORRE DE MACAU",
+      "lat": 22.18038,
+      "stationId": "10386"
+    },
+    {
+      "code": "M178",
+      "lng": 113.53929,
+      "name": "PRAÇA DA ASSEMBLEIA LEGISLATIVA",
+      "lat": 22.18298,
+      "stationId": "10387"
+    },
+    {
+      "code": "M181",
+      "lng": 113.5377,
+      "name": "P. LOBO ÁVILA",
+      "lat": 22.18854,
+      "stationId": "10390"
+    },
+    {
+      "code": "M182/1",
+      "lng": 113.53693,
+      "name": "TORRE / TÚNEL RODOVIÁRIO",
+      "lat": 22.180109,
+      "stationId": "10391"
+    },
+    {
+      "code": "M187",
+      "lng": 113.53917,
+      "name": "PRAÇA JORGE ALVARES",
+      "lat": 22.19038,
+      "stationId": "10396"
+    },
+    {
+      "code": "M199",
+      "lng": 113.53792,
+      "name": "AVENIDA PANORÂMICA DO LAGO NAM VAN",
+      "lat": 22.18681,
+      "stationId": "10408"
+    },
+    {
+      "code": "M250",
+      "lng": 113.55019,
+      "name": "NAPE/ RUA CIDADE DE BRAGA",
+      "lat": 22.18692,
+      "stationId": "10465"
+    },
+    {
+      "code": "M251",
+      "lng": 113.55037,
+      "name": "CENTRO TRANSFUSÕES SANGUE",
+      "lat": 22.18888,
+      "stationId": "10466"
+    },
+    {
+      "code": "M252",
+      "lng": 113.55011,
+      "name": "NAPE/RUA DE COIMBRA",
+      "lat": 22.188461,
+      "stationId": "10467"
+    },
+    {
+      "code": "M253",
+      "lng": 113.55109,
+      "name": "AL. DR. C. D’ASSUMPÇÃO / KIN HENG LONG",
+      "lat": 22.18915,
+      "stationId": "10468"
+    },
+    {
+      "code": "M257",
+      "lng": 113.55421,
+      "name": "NAPE / CENTRO  CULTURAL",
+      "lat": 22.18761,
+      "stationId": "10473"
+    },
+    {
+      "code": "M259",
+      "lng": 113.55573,
+      "name": "AV. DR. SUN YAT-SEN/ SANDS",
+      "lat": 22.18995,
+      "stationId": "10475"
+    },
+    {
+      "code": "M262",
+      "lng": 113.548676,
+      "name": "AV.24 DE JUNHO/R.DO.PORTO",
+      "lat": 22.187452,
+      "stationId": "10478"
+    },
+    {
+      "code": "M263",
+      "lng": 113.54626,
+      "name": "RUA CIDADE DE SINTRA",
+      "lat": 22.18918,
+      "stationId": "10479"
+    },
+    {
+      "code": "M266",
+      "lng": 113.55651,
+      "name": "CENTRO DE CIÊNCIA DE MACAU",
+      "lat": 22.18712,
+      "stationId": "10482"
+    },
+    {
+      "code": "M268",
+      "lng": 113.54783,
+      "name": "PRACETA 24 DE JUNHO",
+      "lat": 22.18724,
+      "stationId": "10485"
+    },
+    {
+      "code": "M69/1",
+      "lng": 113.544779,
+      "name": "HOTEL LISBOA",
+      "lat": 22.1892,
+      "stationId": "66795"
+    },
+    {
+      "code": "M176",
+      "lng": 113.53756,
+      "name": "EDF. DOS JUÍZOS CRIMINAIS DO TRIBUNAL JUDICIAL DE BASE",
+      "lat": 22.184443,
+      "stationId": "67749"
+    },
+    {
+      "code": "M258",
+      "lng": 113.55138,
+      "name": "AL. DR. C. D’ASSUMPÇÃO / TONG NAM AH",
+      "lat": 22.188486,
+      "stationId": "69429"
+    },
+    {
+      "code": "M260",
+      "lng": 113.5482,
+      "name": "AV. 24 DE JUNHO / WYNN",
+      "lat": 22.187801,
+      "stationId": "69949"
+    }
+  ]
+}

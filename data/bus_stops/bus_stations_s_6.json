@@ -1,0 +1,357 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M16/1",
+      "lng": 113.54549,
+      "name": "AV. ALM. LACERDA/ OUVIDOR ARRIAGA",
+      "lat": 22.206627,
+      "stationId": "10192"
+    },
+    {
+      "code": "M16/2",
+      "lng": 113.54534,
+      "name": "AV. ALM. LACERDA/ OUVIDOR ARRIAGA",
+      "lat": 22.206404,
+      "stationId": "10193"
+    },
+    {
+      "code": "M45",
+      "lng": 113.55036,
+      "name": "CONS.F.ALMEIDA/ PAK WAI",
+      "lat": 22.20287,
+      "stationId": "10228"
+    },
+    {
+      "code": "M59",
+      "lng": 113.5494,
+      "name": "CONS.F.ALMEIDA/ HOLLAND GARDEN",
+      "lat": 22.20163,
+      "stationId": "10243"
+    },
+    {
+      "code": "M61/1",
+      "lng": 113.55079,
+      "name": "JARDIM FLORA",
+      "lat": 22.200949,
+      "stationId": "10245"
+    },
+    {
+      "code": "M61/2",
+      "lng": 113.55071,
+      "name": "JARDIM FLORA",
+      "lat": 22.200893,
+      "stationId": "10246"
+    },
+    {
+      "code": "M72",
+      "lng": 113.54903,
+      "name": "ESC. CHAN SUI KI",
+      "lat": 22.19851,
+      "stationId": "10260"
+    },
+    {
+      "code": "M73/2",
+      "lng": 113.548706,
+      "name": "JARDIM DA VITÓRIA",
+      "lat": 22.19922,
+      "stationId": "10261"
+    },
+    {
+      "code": "M75",
+      "lng": 113.5477,
+      "name": "ESCOLA S. LUSO-CHINESA DE L.G. GOMES",
+      "lat": 22.19872,
+      "stationId": "10262"
+    },
+    {
+      "code": "M76/1",
+      "lng": 113.548195,
+      "name": "JARDIM LOU LIM IOC",
+      "lat": 22.200043,
+      "stationId": "10265"
+    },
+    {
+      "code": "M77",
+      "lng": 113.54711,
+      "name": "ADOLFO LOUREIRO",
+      "lat": 22.20031,
+      "stationId": "10266"
+    },
+    {
+      "code": "M78",
+      "lng": 113.54655,
+      "name": "SACADURA CABRAL",
+      "lat": 22.19948,
+      "stationId": "10267"
+    },
+    {
+      "code": "M81",
+      "lng": 113.54524,
+      "name": "ASSOC GERAL DOS CHINESES ULTRAMARINOS",
+      "lat": 22.20035,
+      "stationId": "10270"
+    },
+    {
+      "code": "M82",
+      "lng": 113.54603,
+      "name": "AL. COSTA CABRAL/ SACADURA CABRAL",
+      "lat": 22.20022,
+      "stationId": "10271"
+    },
+    {
+      "code": "M83",
+      "lng": 113.54703,
+      "name": "AL. COSTA CABRAL/ ESC. PUI CHING",
+      "lat": 22.20103,
+      "stationId": "10272"
+    },
+    {
+      "code": "M84/2",
+      "lng": 113.54838,
+      "name": "HORTA E COSTA/ ESC. PUI CHING",
+      "lat": 22.20162,
+      "stationId": "10273"
+    },
+    {
+      "code": "M85",
+      "lng": 113.54809,
+      "name": "ADOLFO LOUREIRO / JARDIM VITÓRIA",
+      "lat": 22.19929,
+      "stationId": "10274"
+    },
+    {
+      "code": "M86",
+      "lng": 113.54559,
+      "name": "R. BARCA/ R. XAVIER PEREIRA",
+      "lat": 22.20173,
+      "stationId": "10275"
+    },
+    {
+      "code": "M87",
+      "lng": 113.54461,
+      "name": "EST. COELHO AMARAL",
+      "lat": 22.201302,
+      "stationId": "10276"
+    },
+    {
+      "code": "M88",
+      "lng": 113.54794,
+      "name": "HORTA COSTA/ COSTA CABRAL",
+      "lat": 22.20218,
+      "stationId": "10277"
+    },
+    {
+      "code": "M90",
+      "lng": 113.54879,
+      "name": "EDF. NGA LIM",
+      "lat": 22.20317,
+      "stationId": "10279"
+    },
+    {
+      "code": "M91",
+      "lng": 113.54613,
+      "name": "HORTA E COSTA/ RUA MANUEL ARRIAGA",
+      "lat": 22.20364,
+      "stationId": "10280"
+    },
+    {
+      "code": "M92",
+      "lng": 113.54729,
+      "name": "XAVIER PEREIRA/ HORTA E COSTA",
+      "lat": 22.20321,
+      "stationId": "10281"
+    },
+    {
+      "code": "M96",
+      "lng": 113.54509,
+      "name": "EST. C. AMARAL/ HORTA E COSTA",
+      "lat": 22.20361,
+      "stationId": "10285"
+    },
+    {
+      "code": "M97",
+      "lng": 113.54821,
+      "name": "OUVIDOR ARRIAGA / XAVIER PEREIRA",
+      "lat": 22.20355,
+      "stationId": "10286"
+    },
+    {
+      "code": "M98",
+      "lng": 113.546005,
+      "name": "HORTA COSTA/ COELHO DO AMARAL",
+      "lat": 22.203903,
+      "stationId": "10287"
+    },
+    {
+      "code": "M99",
+      "lng": 113.54467,
+      "name": "HORTA COSTA/ MERCADO VERMELHO",
+      "lat": 22.20493,
+      "stationId": "10288"
+    },
+    {
+      "code": "M101",
+      "lng": 113.54755,
+      "name": "EDF. HANG WAN KOK",
+      "lat": 22.2042,
+      "stationId": "10290"
+    },
+    {
+      "code": "M103",
+      "lng": 113.54827,
+      "name": "ASILO S. FRANCISCO",
+      "lat": 22.20425,
+      "stationId": "10292"
+    },
+    {
+      "code": "M106",
+      "lng": 113.54599,
+      "name": "OUVIDOR ARRIAGA/ ESC. S. C. JESUS",
+      "lat": 22.20538,
+      "stationId": "10295"
+    },
+    {
+      "code": "M107",
+      "lng": 113.54681,
+      "name": "ESC. S. C. JESUS",
+      "lat": 22.20586,
+      "stationId": "10296"
+    },
+    {
+      "code": "M110",
+      "lng": 113.54404,
+      "name": "RUA DA BARCA/ESC. ASSOC. G. DE MULHERS",
+      "lat": 22.20228,
+      "stationId": "10299"
+    },
+    {
+      "code": "M111",
+      "lng": 113.543236,
+      "name": "JARDIM CHEONG MENG",
+      "lat": 22.204412,
+      "stationId": "10300"
+    },
+    {
+      "code": "M116",
+      "lng": 113.54565,
+      "name": "RUA MANUEL ARRIAGA",
+      "lat": 22.20229,
+      "stationId": "10305"
+    },
+    {
+      "code": "M119",
+      "lng": 113.54302,
+      "name": "CINEMA ALEGRIA",
+      "lat": 22.20166,
+      "stationId": "10308"
+    },
+    {
+      "code": "M121",
+      "lng": 113.54239,
+      "name": "C. AMARAL / HOSPITAL KIANG WU",
+      "lat": 22.199707,
+      "stationId": "10310"
+    },
+    {
+      "code": "M123",
+      "lng": 113.54388,
+      "name": "ESC. TONG NAM",
+      "lat": 22.19847,
+      "stationId": "10312"
+    },
+    {
+      "code": "M148",
+      "lng": 113.54639,
+      "name": "CALÇADA DA GUIA",
+      "lat": 22.195942,
+      "stationId": "10341"
+    },
+    {
+      "code": "M149",
+      "lng": 113.5479,
+      "name": "YUET WAH COLLEGE",
+      "lat": 22.19724,
+      "stationId": "10342"
+    },
+    {
+      "code": "M150",
+      "lng": 113.54815,
+      "name": "CALÇADA DA VITÓRIA",
+      "lat": 22.196158,
+      "stationId": "10343"
+    },
+    {
+      "code": "M270/1",
+      "lng": 113.54677,
+      "name": "PAVILHÃO POLIDESPORTIVO TAP SEAC",
+      "lat": 22.19704,
+      "stationId": "10345"
+    },
+    {
+      "code": "M270/2",
+      "lng": 113.54658,
+      "name": "PAVILHÃO POLIDESPORTIVO TAP SEAC",
+      "lat": 22.196798,
+      "stationId": "10346"
+    },
+    {
+      "code": "M237",
+      "lng": 113.54454,
+      "name": "INSTITUTO DE ACÇÃO SOCIAL",
+      "lat": 22.19804,
+      "stationId": "10451"
+    },
+    {
+      "code": "M245",
+      "lng": 113.54338,
+      "name": "HOSPITAL KIANG WU",
+      "lat": 22.19909,
+      "stationId": "10460"
+    },
+    {
+      "code": "M271",
+      "lng": 113.54648,
+      "name": "CANIL MUNICIPAL",
+      "lat": 22.2069,
+      "stationId": "10486"
+    },
+    {
+      "code": "M152",
+      "lng": 113.54768,
+      "name": "PRAÇA DO TAP SEAC",
+      "lat": 22.198141,
+      "stationId": "10489"
+    },
+    {
+      "code": "M109",
+      "lng": 113.54399,
+      "name": "ALMIRANTE LACERDA / HORTA E COSTA",
+      "lat": 22.20501,
+      "stationId": "10490"
+    },
+    {
+      "code": "M76/2",
+      "lng": 113.548294,
+      "name": "JARDIM LOU LIM IOC",
+      "lat": 22.200167,
+      "stationId": "67034"
+    },
+    {
+      "code": "M73/1",
+      "lng": 113.548935,
+      "name": "JARDIM DA VITÓRIA",
+      "lat": 22.199429,
+      "stationId": "67212"
+    },
+    {
+      "code": "M84/1",
+      "lng": 113.54842,
+      "name": "HORTA E COSTA/ ESC. PUI CHING",
+      "lat": 22.201584,
+      "stationId": "67889"
+    }
+  ]
+}

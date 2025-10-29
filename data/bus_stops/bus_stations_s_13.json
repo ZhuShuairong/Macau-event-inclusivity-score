@@ -1,0 +1,210 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "T313",
+      "lng": 113.559975,
+      "name": "EDF. GREENVILLE",
+      "lat": 22.15614,
+      "stationId": "10054"
+    },
+    {
+      "code": "T315",
+      "lng": 113.56139,
+      "name": "NOBRE CARVALHO/ ARMAZEM CEM",
+      "lat": 22.15468,
+      "stationId": "10056"
+    },
+    {
+      "code": "T322",
+      "lng": 113.56948,
+      "name": "AV. SON ON",
+      "lat": 22.162275,
+      "stationId": "10064"
+    },
+    {
+      "code": "T342",
+      "lng": 113.56173,
+      "name": "EST. ALM. M. CORREIA",
+      "lat": 22.162289,
+      "stationId": "10089"
+    },
+    {
+      "code": "T344",
+      "lng": 113.57384,
+      "name": "OFICINAS DO AEROPORTO",
+      "lat": 22.16161,
+      "stationId": "10091"
+    },
+    {
+      "code": "T345/1",
+      "lng": 113.576,
+      "name": "TERMINAL MARíTIMO DE PASSAGEIROS DA TAIPA",
+      "lat": 22.163336,
+      "stationId": "10092"
+    },
+    {
+      "code": "T345/2",
+      "lng": 113.57595,
+      "name": "TERMINAL MARíTIMO DE PASSAGEIROS DA TAIPA",
+      "lat": 22.16315,
+      "stationId": "10093"
+    },
+    {
+      "code": "T345/3",
+      "lng": 113.575836,
+      "name": "TERMINAL MARíTIMO DE PASSAGEIROS DA TAIPA",
+      "lat": 22.162756,
+      "stationId": "10094"
+    },
+    {
+      "code": "T345/4",
+      "lng": 113.57642,
+      "name": "TERMINAL MARíTIMO DE PASSAGEIROS DA TAIPA",
+      "lat": 22.163166,
+      "stationId": "10095"
+    },
+    {
+      "code": "T356/1",
+      "lng": 113.57395,
+      "name": "AEROPORTO  DE  MACAU",
+      "lat": 22.15779,
+      "stationId": "10106"
+    },
+    {
+      "code": "T358",
+      "lng": 113.567955,
+      "name": "WAI LONG/M.U.S.T.-HOSPITAL",
+      "lat": 22.154762,
+      "stationId": "10109"
+    },
+    {
+      "code": "T429",
+      "lng": 113.569275,
+      "name": "AV. DO AEROPORTO/ M.U.S.T.-HOSPITAL",
+      "lat": 22.154572,
+      "stationId": "10110"
+    },
+    {
+      "code": "T373/1",
+      "lng": 113.56514,
+      "name": "WAI LONG/M.U.S.T.",
+      "lat": 22.152071,
+      "stationId": "10125"
+    },
+    {
+      "code": "T374",
+      "lng": 113.56459,
+      "name": "L.E.C.M.",
+      "lat": 22.152,
+      "stationId": "10126"
+    },
+    {
+      "code": "T391",
+      "lng": 113.56686,
+      "name": "AV. DR. HENRY FOK / M.U.S.T.",
+      "lat": 22.150368,
+      "stationId": "10143"
+    },
+    {
+      "code": "T406",
+      "lng": 113.56787,
+      "name": "ROTUNDA DO AEROPORTO / WAI LONG",
+      "lat": 22.154985,
+      "stationId": "10158"
+    },
+    {
+      "code": "T417",
+      "lng": 113.57049,
+      "name": "M.U.S.T. / TERMINAL DE CARGA DO AEROPORTO",
+      "lat": 22.153112,
+      "stationId": "10863"
+    },
+    {
+      "code": "T409",
+      "lng": 113.56213,
+      "name": "JARDIM DO LAGO",
+      "lat": 22.15876,
+      "stationId": "10900"
+    },
+    {
+      "code": "T345/5",
+      "lng": 113.5764,
+      "name": "TERMINAL MARíTIMO DE PASSAGEIROS DA TAIPA",
+      "lat": 22.163055,
+      "stationId": "66796"
+    },
+    {
+      "code": "T356/3",
+      "lng": 113.5736,
+      "name": "AEROPORTO  DE  MACAU",
+      "lat": 22.157566,
+      "stationId": "67249"
+    },
+    {
+      "code": "T356/2",
+      "lng": 113.573802,
+      "name": "AEROPORTO  DE  MACAU",
+      "lat": 22.157695,
+      "stationId": "67274"
+    },
+    {
+      "code": "T354",
+      "lng": 113.57354,
+      "name": "EDF. SERVIÇOS MIGRAÇÃO PAC ON",
+      "lat": 22.163742,
+      "stationId": "67310"
+    },
+    {
+      "code": "T345/6",
+      "lng": 113.57633,
+      "name": "TERMINAL MARíTIMO DE PASSAGEIROS DA TAIPA",
+      "lat": 22.162788,
+      "stationId": "67711"
+    },
+    {
+      "code": "T411",
+      "lng": 113.57368,
+      "name": "HOTEL CHINA COROA D'OURO",
+      "lat": 22.159115,
+      "stationId": "68209"
+    },
+    {
+      "code": "T410",
+      "lng": 113.5688,
+      "name": "EST. DA PONTA DA CABRITA / HAU SI-2",
+      "lat": 22.160576,
+      "stationId": "68210"
+    },
+    {
+      "code": "T317",
+      "lng": 113.57101,
+      "name": "EST PAC ON.RUA WO MOK",
+      "lat": 22.163397,
+      "stationId": "68330"
+    },
+    {
+      "code": "T316",
+      "lng": 113.56704,
+      "name": "EST PAC ON.NOVOS ATERROS",
+      "lat": 22.164764,
+      "stationId": "68349"
+    },
+    {
+      "code": "T401",
+      "lng": 113.56583,
+      "name": "EST. DA PONTA DA CABRITA / HAU SI-1",
+      "lat": 22.161768,
+      "stationId": "69189"
+    },
+    {
+      "code": "T373/2",
+      "lng": 113.5649,
+      "name": "WAI LONG/M.U.S.T.",
+      "lat": 22.151752,
+      "stationId": "69329"
+    }
+  ]
+}

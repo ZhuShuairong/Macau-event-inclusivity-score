@@ -1,0 +1,287 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M198",
+      "lng": 113.52969,
+      "name": "AV. PANORÂMICA DO LAGO SAI VAN / PONTE-CAIS DA BARRA",
+      "lat": 22.186089,
+      "stationId": "10175"
+    },
+    {
+      "code": "M134",
+      "lng": 113.53917,
+      "name": "ALMEIDA RIBEIRO / OCBC",
+      "lat": 22.1939,
+      "stationId": "10323"
+    },
+    {
+      "code": "M136/1",
+      "lng": 113.53629,
+      "name": "PONTE CAIS N.14",
+      "lat": 22.19557,
+      "stationId": "10326"
+    },
+    {
+      "code": "M136/2",
+      "lng": 113.53625,
+      "name": "PONTE CAIS N.14",
+      "lat": 22.195477,
+      "stationId": "10327"
+    },
+    {
+      "code": "M138",
+      "lng": 113.53511,
+      "name": "PRAÇA PONTE HORTA / TERMINAL",
+      "lat": 22.19339,
+      "stationId": "10329"
+    },
+    {
+      "code": "M139/1",
+      "lng": 113.53532,
+      "name": "PRAÇA PONTE HORTA",
+      "lat": 22.193548,
+      "stationId": "10330"
+    },
+    {
+      "code": "M139/2",
+      "lng": 113.53535,
+      "name": "PRAÇA PONTE HORTA",
+      "lat": 22.193605,
+      "stationId": "10331"
+    },
+    {
+      "code": "M140/1",
+      "lng": 113.53452,
+      "name": "ALM. SÉRGIO / TRAV. LIDO",
+      "lat": 22.19227,
+      "stationId": "10332"
+    },
+    {
+      "code": "M142",
+      "lng": 113.53733,
+      "name": "ALMEIDA RIBEIRO / MERCADO KAM PEK",
+      "lat": 22.19565,
+      "stationId": "10334"
+    },
+    {
+      "code": "M166",
+      "lng": 113.53573,
+      "name": "RUA DA PENHA",
+      "lat": 22.18853,
+      "stationId": "10364"
+    },
+    {
+      "code": "M174",
+      "lng": 113.53301,
+      "name": "D. DOS S. DE A. MARÍTIMOS E DE ÁGUA",
+      "lat": 22.18787,
+      "stationId": "10383"
+    },
+    {
+      "code": "M175",
+      "lng": 113.53609,
+      "name": "POUSADA RITZ",
+      "lat": 22.18617,
+      "stationId": "10384"
+    },
+    {
+      "code": "M179",
+      "lng": 113.53889,
+      "name": "S. AGOSTINHO",
+      "lat": 22.19061,
+      "stationId": "10388"
+    },
+    {
+      "code": "M180",
+      "lng": 113.53652,
+      "name": "RUA S. LOURENÇO",
+      "lat": 22.19046,
+      "stationId": "10389"
+    },
+    {
+      "code": "M186/2",
+      "lng": 113.53304,
+      "name": "ALM. SÉRGIO / TRV. DOS ARMAZÉNS",
+      "lat": 22.189997,
+      "stationId": "10395"
+    },
+    {
+      "code": "M188",
+      "lng": 113.532234,
+      "name": "ALM. SÉRGIO / PRAIA MANDUCO",
+      "lat": 22.188662,
+      "stationId": "10397"
+    },
+    {
+      "code": "M189",
+      "lng": 113.53449,
+      "name": "MERCADO DE S. LOURENÇO",
+      "lat": 22.191235,
+      "stationId": "10398"
+    },
+    {
+      "code": "M191",
+      "lng": 113.53507,
+      "name": "LARGO DO LILAU",
+      "lat": 22.18866,
+      "stationId": "10400"
+    },
+    {
+      "code": "M192",
+      "lng": 113.5361,
+      "name": "AV. REPÚBLICA",
+      "lat": 22.18587,
+      "stationId": "10401"
+    },
+    {
+      "code": "M193",
+      "lng": 113.53587,
+      "name": "AV. REPÚBLICA / LAGO SAI WAN",
+      "lat": 22.18577,
+      "stationId": "10402"
+    },
+    {
+      "code": "M194",
+      "lng": 113.53348,
+      "name": "SAI WAN",
+      "lat": 22.18311,
+      "stationId": "10403"
+    },
+    {
+      "code": "M195",
+      "lng": 113.53343,
+      "name": "SAI WAN/ EDF. TAI HENG",
+      "lat": 22.182997,
+      "stationId": "10404"
+    },
+    {
+      "code": "M196",
+      "lng": 113.53145,
+      "name": "MEIA LARANJA",
+      "lat": 22.18173,
+      "stationId": "10405"
+    },
+    {
+      "code": "M197",
+      "lng": 113.53077,
+      "name": "MEIA LARANJA/ EDF. SON FAT",
+      "lat": 22.18208,
+      "stationId": "10406"
+    },
+    {
+      "code": "M203/1",
+      "lng": 113.53108,
+      "name": "TEMPLO Á MA",
+      "lat": 22.187046,
+      "stationId": "10412"
+    },
+    {
+      "code": "M203/2",
+      "lng": 113.53103,
+      "name": "TEMPLO Á MA",
+      "lat": 22.18699,
+      "stationId": "10413"
+    },
+    {
+      "code": "M185/2",
+      "lng": 113.53311,
+      "name": "RIVIERA MACAU / TERMINAL",
+      "lat": 22.19081,
+      "stationId": "67009"
+    },
+    {
+      "code": "M190",
+      "lng": 113.53235,
+      "name": "ALM. SÉRGIO / BARRA",
+      "lat": 22.18908,
+      "stationId": "67030"
+    },
+    {
+      "code": "M183/2",
+      "lng": 113.533356,
+      "name": "ALM. SÉRGIO / RIVIERA MACAU",
+      "lat": 22.190485,
+      "stationId": "67129"
+    },
+    {
+      "code": "M183/1",
+      "lng": 113.53318,
+      "name": "ALM. SÉRGIO / RIVIERA MACAU",
+      "lat": 22.190235,
+      "stationId": "67329"
+    },
+    {
+      "code": "M137/2",
+      "lng": 113.535774,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO INTERIOR",
+      "lat": 22.194725,
+      "stationId": "67509"
+    },
+    {
+      "code": "M184",
+      "lng": 113.533253,
+      "name": "ALM. SÉRGIO / MERCADO",
+      "lat": 22.190203,
+      "stationId": "67695"
+    },
+    {
+      "code": "M204",
+      "lng": 113.531624,
+      "name": "ALM. SÉRGIO / FONG SON SAN CHUN",
+      "lat": 22.188105,
+      "stationId": "67849"
+    },
+    {
+      "code": "M140/2",
+      "lng": 113.53455,
+      "name": "ALM. SÉRGIO / TRAV. LIDO",
+      "lat": 22.192314,
+      "stationId": "67890"
+    },
+    {
+      "code": "M137/1",
+      "lng": 113.5356,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO INTERIOR",
+      "lat": 22.194378,
+      "stationId": "68989"
+    },
+    {
+      "code": "M3/1",
+      "lng": 113.52981,
+      "name": "CENTRO MODAL DE TRANSPORTES DA BARRA",
+      "lat": 22.183275,
+      "stationId": "69629"
+    },
+    {
+      "code": "M3/2",
+      "lng": 113.52979,
+      "name": "CENTRO MODAL DE TRANSPORTES DA BARRA",
+      "lat": 22.18341,
+      "stationId": "69649"
+    },
+    {
+      "code": "M3/3",
+      "lng": 113.529785,
+      "name": "CENTRO MODAL DE TRANSPORTES DA BARRA",
+      "lat": 22.183552,
+      "stationId": "69650"
+    },
+    {
+      "code": "M3/4",
+      "lng": 113.52978,
+      "name": "CENTRO MODAL DE TRANSPORTES DA BARRA",
+      "lat": 22.1837,
+      "stationId": "69651"
+    },
+    {
+      "code": "M277",
+      "lng": 113.52918,
+      "name": "AV. PANORÂMICA DO LAGO SAI VAN / CENTRO MODAL DE TRANSPORTES DA BARRA",
+      "lat": 22.183266,
+      "stationId": "69929"
+    }
+  ]
+}

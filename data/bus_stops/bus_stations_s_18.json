@@ -1,0 +1,105 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "T559",
+      "lng": 113.5462,
+      "name": "SUL DA UNIVERSIDADE",
+      "lat": 22.124203,
+      "stationId": "65949"
+    },
+    {
+      "code": "T551/1",
+      "lng": 113.54623,
+      "name": "UM / RESIDÊNCIA DE E. DE PÓS-GRADUAÇÃO",
+      "lat": 22.12479,
+      "stationId": "65969"
+    },
+    {
+      "code": "T550/1",
+      "lng": 113.54666,
+      "name": "UNIVERSIDADE DE MACAU/ TERMINAL",
+      "lat": 22.135696,
+      "stationId": "66149"
+    },
+    {
+      "code": "T550/2",
+      "lng": 113.546295,
+      "name": "UNIVERSIDADE DE MACAU/ TERMINAL",
+      "lat": 22.135702,
+      "stationId": "66150"
+    },
+    {
+      "code": "T550/3",
+      "lng": 113.54666,
+      "name": "UNIVERSIDADE DE MACAU/ TERMINAL",
+      "lat": 22.135807,
+      "stationId": "66151"
+    },
+    {
+      "code": "T550/4",
+      "lng": 113.546295,
+      "name": "UNIVERSIDADE DE MACAU/ TERMINAL",
+      "lat": 22.135807,
+      "stationId": "66152"
+    },
+    {
+      "code": "T556",
+      "lng": 113.54356,
+      "name": "UM / EDIFÍCIO ADMINISTRATIVO",
+      "lat": 22.13412,
+      "stationId": "66153"
+    },
+    {
+      "code": "T555/2",
+      "lng": 113.5433,
+      "name": "UM / COMPLEXO DESPORTIVO",
+      "lat": 22.13397,
+      "stationId": "66154"
+    },
+    {
+      "code": "T552",
+      "lng": 113.54655,
+      "name": "UM / SALA DE AULAS:EDIFÍCIO CENTRAL",
+      "lat": 22.12806,
+      "stationId": "66155"
+    },
+    {
+      "code": "T558",
+      "lng": 113.54683,
+      "name": "AVENIDA DA UNIVERSIDADE",
+      "lat": 22.13039,
+      "stationId": "66156"
+    },
+    {
+      "code": "T553",
+      "lng": 113.54648,
+      "name": "UM / GALERIA DA UNIVERSIDADE",
+      "lat": 22.13038,
+      "stationId": "66157"
+    },
+    {
+      "code": "T557",
+      "lng": 113.54656,
+      "name": "NORTE DA UNIVERSIDADE",
+      "lat": 22.134066,
+      "stationId": "66158"
+    },
+    {
+      "code": "T554",
+      "lng": 113.54639,
+      "name": "UM / AULA MAGNA DA UNIVERSIDADE",
+      "lat": 22.134068,
+      "stationId": "66159"
+    },
+    {
+      "code": "T551/2",
+      "lng": 113.546265,
+      "name": "UM / RESIDÊNCIA DE E. DE PÓS-GRADUAÇÃO",
+      "lat": 22.125078,
+      "stationId": "68429"
+    }
+  ]
+}

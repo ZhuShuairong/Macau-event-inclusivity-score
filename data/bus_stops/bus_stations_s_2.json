@@ -1,0 +1,392 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M1/2",
+      "lng": 113.54941,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215206,
+      "stationId": "10160"
+    },
+    {
+      "code": "M1/4",
+      "lng": 113.54932,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215143,
+      "stationId": "10162"
+    },
+    {
+      "code": "M1/5",
+      "lng": 113.54932,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215303,
+      "stationId": "10163"
+    },
+    {
+      "code": "M1/6",
+      "lng": 113.54911,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.214945,
+      "stationId": "10164"
+    },
+    {
+      "code": "M1/9",
+      "lng": 113.54918,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215502,
+      "stationId": "10167"
+    },
+    {
+      "code": "M1/11",
+      "lng": 113.54882,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215282,
+      "stationId": "10169"
+    },
+    {
+      "code": "M1/12",
+      "lng": 113.54878,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215034,
+      "stationId": "10170"
+    },
+    {
+      "code": "M1/13",
+      "lng": 113.54877,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.214924,
+      "stationId": "10171"
+    },
+    {
+      "code": "M1/14",
+      "lng": 113.54874,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215244,
+      "stationId": "10172"
+    },
+    {
+      "code": "M285",
+      "lng": 113.54618,
+      "name": "MORADIAS ECONÓMICAS DA TAMAGNINI BARBOSA",
+      "lat": 22.213577,
+      "stationId": "10176"
+    },
+    {
+      "code": "M5",
+      "lng": 113.54406,
+      "name": "UNIÃO G. DAS ASSOCIAÇÕES DOS MORADORES",
+      "lat": 22.213251,
+      "stationId": "10177"
+    },
+    {
+      "code": "M7/1",
+      "lng": 113.54862,
+      "name": "ISTMO F. AMARAL",
+      "lat": 22.212759,
+      "stationId": "10179"
+    },
+    {
+      "code": "M7/3",
+      "lng": 113.54855,
+      "name": "ISTMO F. AMARAL",
+      "lat": 22.21231,
+      "stationId": "10180"
+    },
+    {
+      "code": "M8/1",
+      "lng": 113.54757,
+      "name": "AV. ARTUR DE TAMAGNINI BARBOSA",
+      "lat": 22.21276,
+      "stationId": "10181"
+    },
+    {
+      "code": "M8/2",
+      "lng": 113.54757,
+      "name": "AV. ARTUR DE TAMAGNINI BARBOSA",
+      "lat": 22.2128,
+      "stationId": "10182"
+    },
+    {
+      "code": "M10",
+      "lng": 113.54623,
+      "name": "MERCADO TAMAG. BARBOSA",
+      "lat": 22.21044,
+      "stationId": "10185"
+    },
+    {
+      "code": "M13",
+      "lng": 113.54664,
+      "name": "RUA DE LEI POU CH’ÔN",
+      "lat": 22.21219,
+      "stationId": "10189"
+    },
+    {
+      "code": "M27",
+      "lng": 113.54852,
+      "name": "ISTMO F. AMARAL / JARDIM TRIANGULAR",
+      "lat": 22.210726,
+      "stationId": "10209"
+    },
+    {
+      "code": "M28/1",
+      "lng": 113.54976,
+      "name": "EST. AREIA PRETA",
+      "lat": 22.20805,
+      "stationId": "10210"
+    },
+    {
+      "code": "M28/2",
+      "lng": 113.549736,
+      "name": "EST. AREIA PRETA",
+      "lat": 22.208136,
+      "stationId": "10211"
+    },
+    {
+      "code": "M29",
+      "lng": 113.55027,
+      "name": "AV. VENCESLAU DE MORAIS",
+      "lat": 22.208536,
+      "stationId": "10212"
+    },
+    {
+      "code": "M63",
+      "lng": 113.54576,
+      "name": "PARQUE M. DR. SUN YAT SEN",
+      "lat": 22.215479,
+      "stationId": "10248"
+    },
+    {
+      "code": "M214/2",
+      "lng": 113.553566,
+      "name": "AL. TRANQUILIDADE / TERMINAL",
+      "lat": 22.21256,
+      "stationId": "10424"
+    },
+    {
+      "code": "M214/1",
+      "lng": 113.55408,
+      "name": "AL. TRANQUILIDADE / TERMINAL",
+      "lat": 22.212328,
+      "stationId": "10425"
+    },
+    {
+      "code": "M216",
+      "lng": 113.55437,
+      "name": "AV. LESTE HIPÓDROMO",
+      "lat": 22.213013,
+      "stationId": "10427"
+    },
+    {
+      "code": "M220",
+      "lng": 113.55202,
+      "name": "MERCADO IAO HON",
+      "lat": 22.21154,
+      "stationId": "10432"
+    },
+    {
+      "code": "M222/1",
+      "lng": 113.55017,
+      "name": "RUA DA TRIBUNA",
+      "lat": 22.21318,
+      "stationId": "10434"
+    },
+    {
+      "code": "M222/2",
+      "lng": 113.55027,
+      "name": "RUA DA TRIBUNA",
+      "lat": 22.21317,
+      "stationId": "10435"
+    },
+    {
+      "code": "M224",
+      "lng": 113.55135,
+      "name": "RUA DA SAÚDE / EDF. LAI WAH",
+      "lat": 22.21001,
+      "stationId": "10437"
+    },
+    {
+      "code": "M225",
+      "lng": 113.54937,
+      "name": "R. DA TRIBUNA/EST. DOS CAVALEIROS",
+      "lat": 22.21327,
+      "stationId": "10439"
+    },
+    {
+      "code": "M228",
+      "lng": 113.550224,
+      "name": "RUA 2 IAO HON",
+      "lat": 22.211487,
+      "stationId": "10442"
+    },
+    {
+      "code": "M244",
+      "lng": 113.55206,
+      "name": "R.DIREITA DO HIPÓDROMO",
+      "lat": 22.21231,
+      "stationId": "10459"
+    },
+    {
+      "code": "M214",
+      "lng": 113.552376,
+      "name": "AL. TRANQUILIDADE / TERMINAL",
+      "lat": 22.21321,
+      "stationId": "66911"
+    },
+    {
+      "code": "M229",
+      "lng": 113.548325,
+      "name": "JARDIM TRIANGULAR",
+      "lat": 22.210596,
+      "stationId": "67010"
+    },
+    {
+      "code": "M4/1",
+      "lng": 113.54491,
+      "name": "ESCOLA OFICIAL ZHENG GUANYING",
+      "lat": 22.21366,
+      "stationId": "67031"
+    },
+    {
+      "code": "M4/2",
+      "lng": 113.54525,
+      "name": "ESCOLA OFICIAL ZHENG GUANYING",
+      "lat": 22.21364,
+      "stationId": "67032"
+    },
+    {
+      "code": "M281",
+      "lng": 113.549675,
+      "name": "RUA 1 IAO HON",
+      "lat": 22.212042,
+      "stationId": "67451"
+    },
+    {
+      "code": "M276",
+      "lng": 113.55031,
+      "name": "EST. MARGINAL DO HIPÓDROMO",
+      "lat": 22.21004,
+      "stationId": "67552"
+    },
+    {
+      "code": "M1/18",
+      "lng": 113.54855,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.215012,
+      "stationId": "67569"
+    },
+    {
+      "code": "M9",
+      "lng": 113.54946,
+      "name": "PRAÇA DAS PORTAS DO CERCO",
+      "lat": 22.214802,
+      "stationId": "67570"
+    },
+    {
+      "code": "M227",
+      "lng": 113.550766,
+      "name": "AV. DA LONGEVIDADE / EDF. SENG YEE",
+      "lat": 22.210625,
+      "stationId": "67589"
+    },
+    {
+      "code": "M1/16",
+      "lng": 113.548676,
+      "name": "PORTAS DO CERCO/ TERMINAL",
+      "lat": 22.214937,
+      "stationId": "67650"
+    },
+    {
+      "code": "M283",
+      "lng": 113.550255,
+      "name": "AVENIDA DO HIPÓDROMO",
+      "lat": 22.213758,
+      "stationId": "67809"
+    },
+    {
+      "code": "M282",
+      "lng": 113.54982,
+      "name": "RUA DA SERENIDADE",
+      "lat": 22.212927,
+      "stationId": "67810"
+    },
+    {
+      "code": "M15",
+      "lng": 113.545074,
+      "name": "RUA CENTRAL DE TOI SÁN",
+      "lat": 22.211489,
+      "stationId": "67829"
+    },
+    {
+      "code": "M18/3",
+      "lng": 113.5466,
+      "name": "RUA DOS CURRAIS/TERMINAL",
+      "lat": 22.215443,
+      "stationId": "68049"
+    },
+    {
+      "code": "M18/10",
+      "lng": 113.54676,
+      "name": "RUA DOS CURRAIS/TERMINAL",
+      "lat": 22.215506,
+      "stationId": "68109"
+    },
+    {
+      "code": "M18/1",
+      "lng": 113.54661,
+      "name": "RUA DOS CURRAIS/TERMINAL",
+      "lat": 22.215221,
+      "stationId": "68129"
+    },
+    {
+      "code": "M18/7",
+      "lng": 113.546745,
+      "name": "RUA DOS CURRAIS/TERMINAL",
+      "lat": 22.215399,
+      "stationId": "68131"
+    },
+    {
+      "code": "M18/5",
+      "lng": 113.54674,
+      "name": "RUA DOS CURRAIS/TERMINAL",
+      "lat": 22.215307,
+      "stationId": "68132"
+    },
+    {
+      "code": "M284",
+      "lng": 113.54834,
+      "name": "BAIRRO VÁ TAI",
+      "lat": 22.213463,
+      "stationId": "68189"
+    },
+    {
+      "code": "M7/2",
+      "lng": 113.54859,
+      "name": "ISTMO F. AMARAL",
+      "lat": 22.21257,
+      "stationId": "68370"
+    },
+    {
+      "code": "M67",
+      "lng": 113.54304,
+      "name": "Posto Fronteiriço Qingmao",
+      "lat": 22.213621,
+      "stationId": "69289"
+    },
+    {
+      "code": "M248",
+      "lng": 113.549934,
+      "name": "ZONA P/ PASSAGEIROS-ESTE P. DO CERCO",
+      "lat": 22.216066,
+      "stationId": "69349"
+    },
+    {
+      "code": "M23",
+      "lng": 113.54362,
+      "name": "QINGMAO / GEN. C. BRANCO",
+      "lat": 22.212988,
+      "stationId": "70109"
+    }
+  ]
+}

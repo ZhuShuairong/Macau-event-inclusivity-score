@@ -1,0 +1,385 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "C652",
+      "lng": 113.55876,
+      "name": "EDIFÍCIO ON SON",
+      "lat": 22.12828,
+      "stationId": "10003"
+    },
+    {
+      "code": "C654/2",
+      "lng": 113.554855,
+      "name": "ROTUNDA DA CONCÓRDIA / TERMINAL",
+      "lat": 22.125706,
+      "stationId": "10005"
+    },
+    {
+      "code": "C655",
+      "lng": 113.55536,
+      "name": "PARQUE DE SEAC PAI VAN",
+      "lat": 22.12545,
+      "stationId": "10006"
+    },
+    {
+      "code": "C656",
+      "lng": 113.55344,
+      "name": "EST. DO CAMPO/ PSP-2",
+      "lat": 22.12055,
+      "stationId": "10007"
+    },
+    {
+      "code": "C657",
+      "lng": 113.553505,
+      "name": "EST. DO CAMPO/ PSP-1",
+      "lat": 22.120535,
+      "stationId": "10008"
+    },
+    {
+      "code": "C659",
+      "lng": 113.55206,
+      "name": "MERCADO M. DE COLOANE",
+      "lat": 22.11778,
+      "stationId": "10010"
+    },
+    {
+      "code": "C660",
+      "lng": 113.55251,
+      "name": "ASSOC. DE M. DE COLOANE",
+      "lat": 22.11799,
+      "stationId": "10011"
+    },
+    {
+      "code": "C661",
+      "lng": 113.55526,
+      "name": "INST. MENORES - 2",
+      "lat": 22.117928,
+      "stationId": "10012"
+    },
+    {
+      "code": "C662",
+      "lng": 113.55524,
+      "name": "INST. MENORES - 1",
+      "lat": 22.11803,
+      "stationId": "10013"
+    },
+    {
+      "code": "C663",
+      "lng": 113.55797,
+      "name": "PISCINA CHEOC VAN-2",
+      "lat": 22.114555,
+      "stationId": "10014"
+    },
+    {
+      "code": "C664",
+      "lng": 113.55782,
+      "name": "PISCINA CHEOC VAN-1",
+      "lat": 22.114792,
+      "stationId": "10015"
+    },
+    {
+      "code": "C665",
+      "lng": 113.56042,
+      "name": "EST. CHEOC VAN-2",
+      "lat": 22.114223,
+      "stationId": "10016"
+    },
+    {
+      "code": "C666",
+      "lng": 113.56032,
+      "name": "EST. CHEOC VAN-1",
+      "lat": 22.114258,
+      "stationId": "10017"
+    },
+    {
+      "code": "C667",
+      "lng": 113.56357,
+      "name": "PRAIA CHEOC VAN - 1",
+      "lat": 22.11297,
+      "stationId": "10018"
+    },
+    {
+      "code": "C668",
+      "lng": 113.5635,
+      "name": "PRAIA CHEOC VAN - 2",
+      "lat": 22.11287,
+      "stationId": "10019"
+    },
+    {
+      "code": "C669/1",
+      "lng": 113.56936,
+      "name": "PRAIA DE HAC SÁ",
+      "lat": 22.118752,
+      "stationId": "10020"
+    },
+    {
+      "code": "C670",
+      "lng": 113.57573,
+      "name": "GRAND COLOANE RESORT-2",
+      "lat": 22.12661,
+      "stationId": "10021"
+    },
+    {
+      "code": "C671",
+      "lng": 113.57613,
+      "name": "GRAND COLOANE RESORT-1",
+      "lat": 22.12703,
+      "stationId": "10022"
+    },
+    {
+      "code": "C672",
+      "lng": 113.58153,
+      "name": "POVOAÇÃO DE KÁ-HÓ",
+      "lat": 22.13208,
+      "stationId": "10023"
+    },
+    {
+      "code": "C673",
+      "lng": 113.58244,
+      "name": "ESCOLA DE S. JOSÉ DE KÁ-HÓ",
+      "lat": 22.133516,
+      "stationId": "10024"
+    },
+    {
+      "code": "C675",
+      "lng": 113.5667,
+      "name": "VILA CHOK WAN HOU UN-2",
+      "lat": 22.11319,
+      "stationId": "10026"
+    },
+    {
+      "code": "C676",
+      "lng": 113.56628,
+      "name": "VILA CHOK WAN HOU UN-1",
+      "lat": 22.11334,
+      "stationId": "10027"
+    },
+    {
+      "code": "C677",
+      "lng": 113.56251,
+      "name": "PARQUE MERENDAS CHEOC VAN-1",
+      "lat": 22.11447,
+      "stationId": "10028"
+    },
+    {
+      "code": "C678",
+      "lng": 113.56271,
+      "name": "PARQUE MERENDAS CHEOC VAN-2",
+      "lat": 22.11368,
+      "stationId": "10029"
+    },
+    {
+      "code": "C679",
+      "lng": 113.57163,
+      "name": "BARRAGEM DE HAC SÁ-2",
+      "lat": 22.12384,
+      "stationId": "10030"
+    },
+    {
+      "code": "C680",
+      "lng": 113.56957,
+      "name": "HELLENE GARDEN / ORCHIDS VILLA",
+      "lat": 22.11635,
+      "stationId": "10031"
+    },
+    {
+      "code": "C681",
+      "lng": 113.57079,
+      "name": "BARRAGEM DE HAC SÁ-1",
+      "lat": 22.12387,
+      "stationId": "10032"
+    },
+    {
+      "code": "C691",
+      "lng": 113.56101,
+      "name": "AV. DE LOK KOI / EDF. KOI NGA",
+      "lat": 22.1294,
+      "stationId": "10881"
+    },
+    {
+      "code": "C692",
+      "lng": 113.56113,
+      "name": "AV. DE LOK KOI / EDF. LOK KUAN",
+      "lat": 22.12944,
+      "stationId": "10882"
+    },
+    {
+      "code": "C689/2",
+      "lng": 113.56283,
+      "name": "AL. DA HARMONIA / EDF. LOK KUAN",
+      "lat": 22.12986,
+      "stationId": "10905"
+    },
+    {
+      "code": "C689/1",
+      "lng": 113.56283,
+      "name": "AL. DA HARMONIA / EDF. LOK KUAN",
+      "lat": 22.12965,
+      "stationId": "10907"
+    },
+    {
+      "code": "C688/1",
+      "lng": 113.56307,
+      "name": "AL. DA HARMONIA / EDF. IP HENG",
+      "lat": 22.12986,
+      "stationId": "10908"
+    },
+    {
+      "code": "C688/2",
+      "lng": 113.56317,
+      "name": "AL. DA HARMONIA / EDF. IP HENG",
+      "lat": 22.129838,
+      "stationId": "10909"
+    },
+    {
+      "code": "C693",
+      "lng": 113.56628,
+      "name": "POVOAÇÃO DE HAC SÁ-1",
+      "lat": 22.118017,
+      "stationId": "66132"
+    },
+    {
+      "code": "C694",
+      "lng": 113.56661,
+      "name": "POVOAÇÃO DE HAC SÁ-2",
+      "lat": 22.11758,
+      "stationId": "66133"
+    },
+    {
+      "code": "C653/2",
+      "lng": 113.55872,
+      "name": "ONE OASIS / MAHOGANY TOWER",
+      "lat": 22.12851,
+      "stationId": "66849"
+    },
+    {
+      "code": "C695",
+      "lng": 113.57845,
+      "name": "PARQUE NATURAL BARRAGEM KÁ-HÓ / DSC-1",
+      "lat": 22.13393,
+      "stationId": "66870"
+    },
+    {
+      "code": "C674",
+      "lng": 113.58933,
+      "name": "T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ",
+      "lat": 22.1335,
+      "stationId": "66990"
+    },
+    {
+      "code": "C685",
+      "lng": 113.58785,
+      "name": "CENTRO DE SANTA LUCIA",
+      "lat": 22.130903,
+      "stationId": "67289"
+    },
+    {
+      "code": "C696",
+      "lng": 113.578514,
+      "name": "PARQUE NATURAL BARRAGEM KÁ-HÓ / DSC-2",
+      "lat": 22.133814,
+      "stationId": "67290"
+    },
+    {
+      "code": "C690/3",
+      "lng": 113.56251,
+      "name": "AV. VALE DAS BORBOLETAS / TERMINAL",
+      "lat": 22.128775,
+      "stationId": "67291"
+    },
+    {
+      "code": "C690/2",
+      "lng": 113.562355,
+      "name": "AV. VALE DAS BORBOLETAS / TERMINAL",
+      "lat": 22.128775,
+      "stationId": "67292"
+    },
+    {
+      "code": "C690/6",
+      "lng": 113.562515,
+      "name": "AV. VALE DAS BORBOLETAS / TERMINAL",
+      "lat": 22.128666,
+      "stationId": "67294"
+    },
+    {
+      "code": "C690/5",
+      "lng": 113.562355,
+      "name": "AV. VALE DAS BORBOLETAS / TERMINAL",
+      "lat": 22.128664,
+      "stationId": "67295"
+    },
+    {
+      "code": "C690/4",
+      "lng": 113.56215,
+      "name": "AV. VALE DAS BORBOLETAS / TERMINAL",
+      "lat": 22.128662,
+      "stationId": "67296"
+    },
+    {
+      "code": "C690/1",
+      "lng": 113.56215,
+      "name": "AV. VALE DAS BORBOLETAS / TERMINAL",
+      "lat": 22.12877,
+      "stationId": "67359"
+    },
+    {
+      "code": "C686",
+      "lng": 113.55181,
+      "name": "VILA DE COLOANE",
+      "lat": 22.11814,
+      "stationId": "67669"
+    },
+    {
+      "code": "C687",
+      "lng": 113.568474,
+      "name": "HELLENE GARDEN / HAC SÁ",
+      "lat": 22.11705,
+      "stationId": "67729"
+    },
+    {
+      "code": "C697",
+      "lng": 113.57524,
+      "name": "PARQUE DE M. DO ALTINHO DE KÁ-HÓ",
+      "lat": 22.129396,
+      "stationId": "67769"
+    },
+    {
+      "code": "C698",
+      "lng": 113.5752,
+      "name": "EST. DO ALTINHO DE KÁ-HÓ",
+      "lat": 22.129465,
+      "stationId": "67770"
+    },
+    {
+      "code": "C658",
+      "lng": 113.58866,
+      "name": "IGREJA DE NOSSA SENHORA DAS DORES (KÁ HÓ)",
+      "lat": 22.131838,
+      "stationId": "68669"
+    },
+    {
+      "code": "C669/2",
+      "lng": 113.56935,
+      "name": "PRAIA DE HAC SÁ",
+      "lat": 22.118832,
+      "stationId": "69653"
+    },
+    {
+      "code": "C654/1",
+      "lng": 113.55485,
+      "name": "ROTUNDA DA CONCÓRDIA / TERMINAL",
+      "lat": 22.125532,
+      "stationId": "69809"
+    },
+    {
+      "code": "C654/3",
+      "lng": 113.554955,
+      "name": "ROTUNDA DA CONCÓRDIA / TERMINAL",
+      "lat": 22.125948,
+      "stationId": "69829"
+    }
+  ]
+}

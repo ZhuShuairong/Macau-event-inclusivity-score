@@ -1,0 +1,224 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M62/2",
+      "lng": 113.5551,
+      "name": "JAI ALAI",
+      "lat": 22.196621,
+      "stationId": "10247"
+    },
+    {
+      "code": "M70",
+      "lng": 113.55195,
+      "name": "Universidade Politécnica de Macau",
+      "lat": 22.19341,
+      "stationId": "10258"
+    },
+    {
+      "code": "M71",
+      "lng": 113.55152,
+      "name": "Rua de Xiamen / U.P.M.",
+      "lat": 22.19313,
+      "stationId": "10259"
+    },
+    {
+      "code": "M117",
+      "lng": 113.55272,
+      "name": "AV. R. RODRIGUES / RUA MALACA",
+      "lat": 22.19624,
+      "stationId": "10306"
+    },
+    {
+      "code": "M154",
+      "lng": 113.55233,
+      "name": "AV.AMIZADE/ PRACETA DE MIRAMAR",
+      "lat": 22.19215,
+      "stationId": "10350"
+    },
+    {
+      "code": "M155",
+      "lng": 113.54984,
+      "name": "ARCO ORIENTE",
+      "lat": 22.19387,
+      "stationId": "10351"
+    },
+    {
+      "code": "M156",
+      "lng": 113.55023,
+      "name": "GONZAGA GOMES/ NAM YUET",
+      "lat": 22.19264,
+      "stationId": "10352"
+    },
+    {
+      "code": "M157",
+      "lng": 113.546646,
+      "name": "C. P. S. P.",
+      "lat": 22.191868,
+      "stationId": "10354"
+    },
+    {
+      "code": "M158/1",
+      "lng": 113.54766,
+      "name": "RUA DE PEQUIM/ HOLIDAY INN",
+      "lat": 22.191708,
+      "stationId": "10355"
+    },
+    {
+      "code": "M159",
+      "lng": 113.54691,
+      "name": "HOTEL PRESIDENTE",
+      "lat": 22.19009,
+      "stationId": "10356"
+    },
+    {
+      "code": "M160/1",
+      "lng": 113.54623,
+      "name": "PRACETA DE 1 DE OUTUBRO",
+      "lat": 22.19089,
+      "stationId": "10357"
+    },
+    {
+      "code": "M160/2",
+      "lng": 113.5462,
+      "name": "PRACETA DE 1 DE OUTUBRO",
+      "lat": 22.19097,
+      "stationId": "10358"
+    },
+    {
+      "code": "M161",
+      "lng": 113.55018,
+      "name": "GONZAGA GOMES/RIO",
+      "lat": 22.19267,
+      "stationId": "10359"
+    },
+    {
+      "code": "M163",
+      "lng": 113.5451,
+      "name": "LOPO S. CARVALHO/ HOTEL LISBOA",
+      "lat": 22.19046,
+      "stationId": "10361"
+    },
+    {
+      "code": "M202",
+      "lng": 113.54674,
+      "name": "EDF. NAM  KWONG",
+      "lat": 22.192093,
+      "stationId": "10411"
+    },
+    {
+      "code": "M239/1",
+      "lng": 113.55762,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+      "lat": 22.197496,
+      "stationId": "10453"
+    },
+    {
+      "code": "M239/2",
+      "lng": 113.55742,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+      "lat": 22.19749,
+      "stationId": "10454"
+    },
+    {
+      "code": "M241",
+      "lng": 113.55291,
+      "name": "A PRAÇA FLOR DE LÓTUS",
+      "lat": 22.1945,
+      "stationId": "10456"
+    },
+    {
+      "code": "M242",
+      "lng": 113.55562,
+      "name": "AV. AMIZADE / R. TERMINAL MARÍTIMO",
+      "lat": 22.19605,
+      "stationId": "10457"
+    },
+    {
+      "code": "M243",
+      "lng": 113.54872,
+      "name": "JARDIM COMENDADOR HO YIN",
+      "lat": 22.19264,
+      "stationId": "10458"
+    },
+    {
+      "code": "M254",
+      "lng": 113.55484,
+      "name": "AV. AMIZADE/ VIADUTO",
+      "lat": 22.19486,
+      "stationId": "10469"
+    },
+    {
+      "code": "M255",
+      "lng": 113.55459,
+      "name": "RUA DE MALACA",
+      "lat": 22.1955,
+      "stationId": "10471"
+    },
+    {
+      "code": "M265",
+      "lng": 113.5552,
+      "name": "CENTRO DE CONVENÇÕES E EXPOSIÇÕES DA DOCA DOS PESCADORES",
+      "lat": 22.1944,
+      "stationId": "10481"
+    },
+    {
+      "code": "M118",
+      "lng": 113.55375,
+      "name": "GONZAGA GOMES/ AUTO-SILO DA RUA DE MALACA",
+      "lat": 22.195698,
+      "stationId": "10488"
+    },
+    {
+      "code": "M62/3",
+      "lng": 113.5552,
+      "name": "JAI ALAI",
+      "lat": 22.19656,
+      "stationId": "66949"
+    },
+    {
+      "code": "M62/1",
+      "lng": 113.5553,
+      "name": "JAI ALAI",
+      "lat": 22.196095,
+      "stationId": "67490"
+    },
+    {
+      "code": "M264",
+      "lng": 113.55667,
+      "name": "HARBOURVIEW HOTEL",
+      "lat": 22.189959,
+      "stationId": "67869"
+    },
+    {
+      "code": "M158/2",
+      "lng": 113.54772,
+      "name": "RUA DE PEQUIM/ HOLIDAY INN",
+      "lat": 22.191736,
+      "stationId": "67891"
+    },
+    {
+      "code": "M239/3",
+      "lng": 113.5576,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+      "lat": 22.1974,
+      "stationId": "68149"
+    },
+    {
+      "code": "M239/4",
+      "lng": 113.55743,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+      "lat": 22.197393,
+      "stationId": "68150"
+    },
+    {
+      "code": "M239/9",
+      "lng": 113.55934,
+      "name": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
+      "lat": 22.198166,
+      "stationId": "69609"
+    }
+  ]
+}

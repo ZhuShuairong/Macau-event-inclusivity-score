@@ -1,0 +1,259 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "T301",
+      "lng": 113.55133,
+      "name": "LOU LIM IEOK/ TEMPLO DE POU TAI UN",
+      "lat": 22.16166,
+      "stationId": "10036"
+    },
+    {
+      "code": "T302",
+      "lng": 113.54842,
+      "name": "LOU LIM IEOK/ JARDINS DE LISBOA",
+      "lat": 22.15949,
+      "stationId": "10037"
+    },
+    {
+      "code": "T304",
+      "lng": 113.55671,
+      "name": "GREAT CHINA PLAZA / TAIPA",
+      "lat": 22.1607,
+      "stationId": "10039"
+    },
+    {
+      "code": "T308/1",
+      "lng": 113.55638,
+      "name": "AV. SUN YAT SEN/ CTM",
+      "lat": 22.16092,
+      "stationId": "10044"
+    },
+    {
+      "code": "T308/3",
+      "lng": 113.55649,
+      "name": "AV. SUN YAT SEN/ CTM",
+      "lat": 22.1608,
+      "stationId": "10045"
+    },
+    {
+      "code": "T309",
+      "lng": 113.55826,
+      "name": "EDF. CHUN LEONG",
+      "lat": 22.15908,
+      "stationId": "10047"
+    },
+    {
+      "code": "T323",
+      "lng": 113.55623,
+      "name": "PONTE NEGRA/R. DO REGEDOR",
+      "lat": 22.15451,
+      "stationId": "10065"
+    },
+    {
+      "code": "T325/1",
+      "lng": 113.55477,
+      "name": "EDF. JARDIM DE VA POU",
+      "lat": 22.155678,
+      "stationId": "10067"
+    },
+    {
+      "code": "T332/1",
+      "lng": 113.54956,
+      "name": "EDF. NAM SUN",
+      "lat": 22.157454,
+      "stationId": "10077"
+    },
+    {
+      "code": "T341",
+      "lng": 113.56012,
+      "name": "COLÉGIO ANGLICANO",
+      "lat": 22.161413,
+      "stationId": "10088"
+    },
+    {
+      "code": "T346",
+      "lng": 113.55461,
+      "name": "AV.KWONG TUNG/ EDF. HUNG FAT",
+      "lat": 22.16184,
+      "stationId": "10096"
+    },
+    {
+      "code": "T350",
+      "lng": 113.54911,
+      "name": "AV.KWONG TUNG/ JOCKEY CLUB",
+      "lat": 22.15802,
+      "stationId": "10100"
+    },
+    {
+      "code": "T351",
+      "lng": 113.55256,
+      "name": "RUA BRAGANÇA",
+      "lat": 22.15884,
+      "stationId": "10101"
+    },
+    {
+      "code": "T352",
+      "lng": 113.55263,
+      "name": "AV. KWONG TUNG/ NOVA TAIPA",
+      "lat": 22.15955,
+      "stationId": "10102"
+    },
+    {
+      "code": "T353",
+      "lng": 113.5524,
+      "name": "AV. KWONG TUNG / NOVA GRAND",
+      "lat": 22.15955,
+      "stationId": "10103"
+    },
+    {
+      "code": "T369",
+      "lng": 113.55553,
+      "name": "GUIMARÃES / PARQUE CENTRAL DA TAIPA",
+      "lat": 22.158098,
+      "stationId": "10121"
+    },
+    {
+      "code": "T370",
+      "lng": 113.55548,
+      "name": "GUIMARÃES / NOVA PARK",
+      "lat": 22.157934,
+      "stationId": "10122"
+    },
+    {
+      "code": "T402",
+      "lng": 113.55618,
+      "name": "CHUN LAI GARDEN",
+      "lat": 22.16127,
+      "stationId": "10154"
+    },
+    {
+      "code": "T408/1",
+      "lng": 113.56104,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.15894,
+      "stationId": "10890"
+    },
+    {
+      "code": "T408/2",
+      "lng": 113.56116,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.15903,
+      "stationId": "10891"
+    },
+    {
+      "code": "T408/5",
+      "lng": 113.56114,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.15882,
+      "stationId": "10894"
+    },
+    {
+      "code": "T408/6",
+      "lng": 113.56126,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.15891,
+      "stationId": "10895"
+    },
+    {
+      "code": "T408/8",
+      "lng": 113.56116,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.158691,
+      "stationId": "10897"
+    },
+    {
+      "code": "T408/9",
+      "lng": 113.56126,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.1587,
+      "stationId": "10898"
+    },
+    {
+      "code": "T408/10",
+      "lng": 113.56138,
+      "name": "EDIFÍCIO DO LAGO",
+      "lat": 22.15879,
+      "stationId": "10899"
+    },
+    {
+      "code": "T412",
+      "lng": 113.55446,
+      "name": "PARQUE CENTRAL DATAIPA/R. SENG TOU",
+      "lat": 22.15837,
+      "stationId": "10903"
+    },
+    {
+      "code": "T413",
+      "lng": 113.55549,
+      "name": "PARQUE CENTRALDATAIPA/RUADE COIMBRA",
+      "lat": 22.15891,
+      "stationId": "10904"
+    },
+    {
+      "code": "T339/1",
+      "lng": 113.55719,
+      "name": "JARDIM CIDADE DAS FLORES",
+      "lat": 22.156124,
+      "stationId": "67036"
+    },
+    {
+      "code": "T325/2",
+      "lng": 113.55513,
+      "name": "EDF. JARDIM DE VA POU",
+      "lat": 22.155533,
+      "stationId": "67149"
+    },
+    {
+      "code": "T339/2",
+      "lng": 113.55744,
+      "name": "JARDIM CIDADE DAS FLORES",
+      "lat": 22.156267,
+      "stationId": "67150"
+    },
+    {
+      "code": "T310/1",
+      "lng": 113.55856,
+      "name": "CHUN U VILLA",
+      "lat": 22.158785,
+      "stationId": "67390"
+    },
+    {
+      "code": "T311/2",
+      "lng": 113.55902,
+      "name": "TREASURE GARDEN",
+      "lat": 22.158115,
+      "stationId": "67392"
+    },
+    {
+      "code": "T311/1",
+      "lng": 113.559235,
+      "name": "TREASURE GARDEN",
+      "lat": 22.157887,
+      "stationId": "67393"
+    },
+    {
+      "code": "T310/2",
+      "lng": 113.5586,
+      "name": "CHUN U VILLA",
+      "lat": 22.158743,
+      "stationId": "67409"
+    },
+    {
+      "code": "T331",
+      "lng": 113.55355,
+      "name": "EDF. MEI KENG GARDEN",
+      "lat": 22.156649,
+      "stationId": "67630"
+    },
+    {
+      "code": "T332/2",
+      "lng": 113.550064,
+      "name": "EDF. NAM SUN",
+      "lat": 22.157455,
+      "stationId": "68169"
+    }
+  ]
+}

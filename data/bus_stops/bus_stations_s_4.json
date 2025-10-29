@@ -1,0 +1,21 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M801",
+      "lng": 113.56715,
+      "name": "AV TAI ON",
+      "lat": 22.206578,
+      "stationId": "70169"
+    },
+    {
+      "code": "M802",
+      "lng": 113.56741,
+      "name": "EDF TONG KAI",
+      "lat": 22.204315,
+      "stationId": "70170"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M68",
+      "lng": 113.5439,
+      "name": "AV. LISBOA",
+      "lat": 22.19042,
+      "stationId": "10255"
+    },
+    {
+      "code": "M122",
+      "lng": 113.542274,
+      "name": "R. TOMÁS VIEIRA",
+      "lat": 22.198526,
+      "stationId": "10311"
+    },
+    {
+      "code": "M124",
+      "lng": 113.53941,
+      "name": "JARDIM CAMÕES / TERMINAL",
+      "lat": 22.19931,
+      "stationId": "10313"
+    },
+    {
+      "code": "M125",
+      "lng": 113.536766,
+      "name": "AUTO-SILO PAK KONG",
+      "lat": 22.197714,
+      "stationId": "10314"
+    },
+    {
+      "code": "M127",
+      "lng": 113.5375,
+      "name": "R. DO GUIMARÃES",
+      "lat": 22.200672,
+      "stationId": "10316"
+    },
+    {
+      "code": "M129",
+      "lng": 113.53756,
+      "name": "MERCADO DE PATANE",
+      "lat": 22.201221,
+      "stationId": "10318"
+    },
+    {
+      "code": "M131",
+      "lng": 113.53778,
+      "name": "R. CINCO OUTUBRO",
+      "lat": 22.19796,
+      "stationId": "10320"
+    },
+    {
+      "code": "M132/1",
+      "lng": 113.53655,
+      "name": "PONTE 16",
+      "lat": 22.197367,
+      "stationId": "10321"
+    },
+    {
+      "code": "M133",
+      "lng": 113.53915,
+      "name": "RUA DAS ESTALAGENS",
+      "lat": 22.19629,
+      "stationId": "10322"
+    },
+    {
+      "code": "M143",
+      "lng": 113.53791,
+      "name": "ALMEIDA  RIBEIRO / RUA CAMILO  PESSANHA",
+      "lat": 22.19518,
+      "stationId": "10324"
+    },
+    {
+      "code": "M135/2",
+      "lng": 113.53826,
+      "name": "ALMEIDA RIBEIRO / TAI FUNG",
+      "lat": 22.19484,
+      "stationId": "10325"
+    },
+    {
+      "code": "M141",
+      "lng": 113.53995,
+      "name": "RUA DOS MERCADORES",
+      "lat": 22.19513,
+      "stationId": "10333"
+    },
+    {
+      "code": "M144/1",
+      "lng": 113.54335,
+      "name": "R. CAMPO / TRAVESSA DOS ANJOS",
+      "lat": 22.19353,
+      "stationId": "10336"
+    },
+    {
+      "code": "M144/2",
+      "lng": 113.54338,
+      "name": "R. CAMPO / TRAVESSA DOS ANJOS",
+      "lat": 22.1938,
+      "stationId": "10337"
+    },
+    {
+      "code": "M145/1",
+      "lng": 113.54587,
+      "name": "CALÇADA DA SURPRESA / HOSPITAL S. JANUÁRIOIO",
+      "lat": 22.194523,
+      "stationId": "10338"
+    },
+    {
+      "code": "M147",
+      "lng": 113.5462,
+      "name": "HOSPITAL S. JANUÁRIO / TERMINAL",
+      "lat": 22.194107,
+      "stationId": "10340"
+    },
+    {
+      "code": "M153",
+      "lng": 113.54373,
+      "name": "R. CAMPO / EDF. ADMIN. PÚBLICA",
+      "lat": 22.19412,
+      "stationId": "10347"
+    },
+    {
+      "code": "M146",
+      "lng": 113.54395,
+      "name": "R. CAMPO / VICKY PLAZA",
+      "lat": 22.19441,
+      "stationId": "10349"
+    },
+    {
+      "code": "M162",
+      "lng": 113.54262,
+      "name": "CHINA PLAZA",
+      "lat": 22.192673,
+      "stationId": "10360"
+    },
+    {
+      "code": "M164",
+      "lng": 113.5449,
+      "name": "S. FRANCISCO/ QUARTEL",
+      "lat": 22.19113,
+      "stationId": "10362"
+    },
+    {
+      "code": "M165",
+      "lng": 113.54519,
+      "name": "S. FRANCISCO/ EDF. ESPECIALIDADE SAÚDE PÚBLICA",
+      "lat": 22.19269,
+      "stationId": "10363"
+    },
+    {
+      "code": "M167",
+      "lng": 113.54143,
+      "name": "PRAIA GRANDE/ SI TOI",
+      "lat": 22.19261,
+      "stationId": "10365"
+    },
+    {
+      "code": "M168",
+      "lng": 113.54395,
+      "name": "PRAIA GRANDE/ JARDIM S. FRANCISCO",
+      "lat": 22.192316,
+      "stationId": "10366"
+    },
+    {
+      "code": "M170/2",
+      "lng": 113.54168,
+      "name": "AV.INFANTE D. HENRIQUE",
+      "lat": 22.19163,
+      "stationId": "10368"
+    },
+    {
+      "code": "M171/1",
+      "lng": 113.54152,
+      "name": "CENTRO/INFANTE D. HENRIQUE",
+      "lat": 22.19159,
+      "stationId": "10369"
+    },
+    {
+      "code": "M171/2",
+      "lng": 113.54147,
+      "name": "CENTRO/INFANTE D. HENRIQUE",
+      "lat": 22.19164,
+      "stationId": "10370"
+    },
+    {
+      "code": "M172/1",
+      "lng": 113.54358,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189245,
+      "stationId": "10371"
+    },
+    {
+      "code": "M172/2",
+      "lng": 113.54356,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189346,
+      "stationId": "10372"
+    },
+    {
+      "code": "M172/3",
+      "lng": 113.543526,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189453,
+      "stationId": "10373"
+    },
+    {
+      "code": "M172/4",
+      "lng": 113.54342,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189438,
+      "stationId": "10374"
+    },
+    {
+      "code": "M172/5",
+      "lng": 113.54344,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189342,
+      "stationId": "10375"
+    },
+    {
+      "code": "M172/6",
+      "lng": 113.54347,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189228,
+      "stationId": "10376"
+    },
+    {
+      "code": "M172/7",
+      "lng": 113.543304,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189331,
+      "stationId": "10377"
+    },
+    {
+      "code": "M172/8",
+      "lng": 113.543274,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189436,
+      "stationId": "10378"
+    },
+    {
+      "code": "M172/9",
+      "lng": 113.54318,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189394,
+      "stationId": "10379"
+    },
+    {
+      "code": "M172/10",
+      "lng": 113.5432,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189297,
+      "stationId": "10380"
+    },
+    {
+      "code": "M173",
+      "lng": 113.54291,
+      "name": "AV. D. JOÃO IV",
+      "lat": 22.191902,
+      "stationId": "10382"
+    },
+    {
+      "code": "M200",
+      "lng": 113.53741,
+      "name": "RUA DO TARRAFEIRO",
+      "lat": 22.19881,
+      "stationId": "10409"
+    },
+    {
+      "code": "M201",
+      "lng": 113.53946,
+      "name": "PRAÇA LUÍS CAMÕES",
+      "lat": 22.1992,
+      "stationId": "10410"
+    },
+    {
+      "code": "M261",
+      "lng": 113.54247,
+      "name": "AV.D.JOÃO IV / R. DO. COMANDANTE MATA E OLIVERIA",
+      "lat": 22.19166,
+      "stationId": "10477"
+    },
+    {
+      "code": "M151",
+      "lng": 113.54727,
+      "name": "URGÊNCIAS DO HOSPITAL S. JANUÁRIO",
+      "lat": 22.19406,
+      "stationId": "65989"
+    },
+    {
+      "code": "M172/16",
+      "lng": 113.54309,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.18892,
+      "stationId": "66229"
+    },
+    {
+      "code": "M144/3",
+      "lng": 113.54335,
+      "name": "R. CAMPO / TRAVESSA DOS ANJOS",
+      "lat": 22.19374,
+      "stationId": "66799"
+    },
+    {
+      "code": "M170/1",
+      "lng": 113.54165,
+      "name": "AV.INFANTE D. HENRIQUE",
+      "lat": 22.191654,
+      "stationId": "67089"
+    },
+    {
+      "code": "M145/2",
+      "lng": 113.54578,
+      "name": "CALÇADA DA SURPRESA / HOSPITAL S. JANUÁRIOIO",
+      "lat": 22.1944,
+      "stationId": "67109"
+    },
+    {
+      "code": "M112",
+      "lng": 113.53852,
+      "name": "RIBEIRA DO PATANE / EDF. INDUSTRIAL WA POU",
+      "lat": 22.202568,
+      "stationId": "67130"
+    },
+    {
+      "code": "M132/2",
+      "lng": 113.53657,
+      "name": "PONTE 16",
+      "lat": 22.19741,
+      "stationId": "67494"
+    },
+    {
+      "code": "M135/1",
+      "lng": 113.538216,
+      "name": "ALMEIDA RIBEIRO / TAI FUNG",
+      "lat": 22.194878,
+      "stationId": "68369"
+    },
+    {
+      "code": "M172/12",
+      "lng": 113.54309,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189362,
+      "stationId": "68869"
+    },
+    {
+      "code": "M100",
+      "lng": 113.5437,
+      "name": "R. CAMPO / MANSÃO DO KOU HO NENG",
+      "lat": 22.194344,
+      "stationId": "69029"
+    },
+    {
+      "code": "M172/11",
+      "lng": 113.543236,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189188,
+      "stationId": "69050"
+    },
+    {
+      "code": "M172/13",
+      "lng": 113.5431,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189272,
+      "stationId": "69051"
+    },
+    {
+      "code": "M172/14",
+      "lng": 113.543144,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189169,
+      "stationId": "69052"
+    },
+    {
+      "code": "M172/15",
+      "lng": 113.54303,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.18918,
+      "stationId": "69053"
+    },
+    {
+      "code": "M172/17",
+      "lng": 113.54369,
+      "name": "PRAÇA FERREIRA AMARAL",
+      "lat": 22.189034,
+      "stationId": "69054"
+    }
+  ]
+}

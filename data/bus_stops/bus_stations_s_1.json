@@ -1,0 +1,301 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "M6",
+      "lng": 113.54046,
+      "name": "QINGMAO / SUBESTAÇÃO CANAL DOS PATOS",
+      "lat": 22.21261,
+      "stationId": "10178"
+    },
+    {
+      "code": "M12",
+      "lng": 113.54615,
+      "name": "COMISSARIADO DA ZONA NORTE",
+      "lat": 22.210379,
+      "stationId": "10187"
+    },
+    {
+      "code": "M14",
+      "lng": 113.54605,
+      "name": "PISCINA LIM FUNG",
+      "lat": 22.207788,
+      "stationId": "10190"
+    },
+    {
+      "code": "M19",
+      "lng": 113.54478,
+      "name": "AV.  GEN.  CASTELO  BRANCO",
+      "lat": 22.20934,
+      "stationId": "10196"
+    },
+    {
+      "code": "M21/1",
+      "lng": 113.54362,
+      "name": "CONS. BORJA/EDF. MAYFAIR GARDEN",
+      "lat": 22.210684,
+      "stationId": "10199"
+    },
+    {
+      "code": "M22",
+      "lng": 113.54189,
+      "name": "CONS. BORJA/ ESCOLA S. TERESA",
+      "lat": 22.21094,
+      "stationId": "10200"
+    },
+    {
+      "code": "M24",
+      "lng": 113.54007,
+      "name": "CONS. BORJA / COLÉGIO S. JOSÉ",
+      "lat": 22.2111,
+      "stationId": "10202"
+    },
+    {
+      "code": "M25",
+      "lng": 113.54003,
+      "name": "ILHA VERDE/S.A.A.M.",
+      "lat": 22.21116,
+      "stationId": "10203"
+    },
+    {
+      "code": "M26/1",
+      "lng": 113.54349,
+      "name": "FAI CHI KEI / TERMINAL",
+      "lat": 22.208364,
+      "stationId": "10204"
+    },
+    {
+      "code": "M26/2",
+      "lng": 113.54346,
+      "name": "FAI CHI KEI / TERMINAL",
+      "lat": 22.208492,
+      "stationId": "10205"
+    },
+    {
+      "code": "M26/3",
+      "lng": 113.54337,
+      "name": "FAI CHI KEI / TERMINAL",
+      "lat": 22.208755,
+      "stationId": "10206"
+    },
+    {
+      "code": "M26/4",
+      "lng": 113.543236,
+      "name": "FAI CHI KEI / TERMINAL",
+      "lat": 22.209179,
+      "stationId": "10208"
+    },
+    {
+      "code": "M31",
+      "lng": 113.545044,
+      "name": "GEN. C. BRANCO / CANÍDROMO",
+      "lat": 22.209185,
+      "stationId": "10214"
+    },
+    {
+      "code": "M65",
+      "lng": 113.54194,
+      "name": "QINGMAO / BAIRRO DA ILHA VERDE",
+      "lat": 22.211712,
+      "stationId": "10250"
+    },
+    {
+      "code": "M94",
+      "lng": 113.54314,
+      "name": "RUA SUL DO PATANE / PRAÇA DAS ORQUIDEAS",
+      "lat": 22.20621,
+      "stationId": "10283"
+    },
+    {
+      "code": "M108/1",
+      "lng": 113.54085,
+      "name": "R. DO COMANDANTE JOÃO BELO / EDF. LOK YEUNG FA YUEN",
+      "lat": 22.207474,
+      "stationId": "10297"
+    },
+    {
+      "code": "M113",
+      "lng": 113.54337,
+      "name": "ALM. LACERDA/ MERCADO VERMELHO",
+      "lat": 22.20466,
+      "stationId": "10302"
+    },
+    {
+      "code": "M114",
+      "lng": 113.54013,
+      "name": "R.  RIBEIRA  PATANE",
+      "lat": 22.20308,
+      "stationId": "10303"
+    },
+    {
+      "code": "M205",
+      "lng": 113.53451,
+      "name": "PARQUE INDUSTRIAL TRANSFRONTEIRIÇO",
+      "lat": 22.21209,
+      "stationId": "10415"
+    },
+    {
+      "code": "M208",
+      "lng": 113.53676,
+      "name": "EDF.　CHENG　CHOI",
+      "lat": 22.209616,
+      "stationId": "10418"
+    },
+    {
+      "code": "M209/1",
+      "lng": 113.53631,
+      "name": "EST. ILHA VERDE/ TERMINAL",
+      "lat": 22.20936,
+      "stationId": "10419"
+    },
+    {
+      "code": "M209/2",
+      "lng": 113.53611,
+      "name": "EST. ILHA VERDE/ TERMINAL",
+      "lat": 22.21003,
+      "stationId": "10420"
+    },
+    {
+      "code": "M210",
+      "lng": 113.53793,
+      "name": "EST. ILHA VERDE/ EDF. MEI LOK GARDEN",
+      "lat": 22.213196,
+      "stationId": "10421"
+    },
+    {
+      "code": "M211",
+      "lng": 113.53769,
+      "name": "EST. ILHA VERDE/ CANAL DOS PATOS",
+      "lat": 22.21336,
+      "stationId": "10422"
+    },
+    {
+      "code": "M267",
+      "lng": 113.53481,
+      "name": "R. DO PARQUE INDUSTRIAL",
+      "lat": 22.2116,
+      "stationId": "10484"
+    },
+    {
+      "code": "M273",
+      "lng": 113.54118,
+      "name": "QINGMAO / EDIFÍCIO CHENG CHONG",
+      "lat": 22.21244,
+      "stationId": "65889"
+    },
+    {
+      "code": "M95/2",
+      "lng": 113.54174,
+      "name": "RUA NORTE DO PATANE/BACIA NORTE DO PATANE",
+      "lat": 22.20885,
+      "stationId": "67049"
+    },
+    {
+      "code": "M274",
+      "lng": 113.544716,
+      "name": "CENTRO DE SAÚDE FAI CHI KEI",
+      "lat": 22.207964,
+      "stationId": "67069"
+    },
+    {
+      "code": "M128",
+      "lng": 113.539085,
+      "name": "LAM MAU / CLUBE NÁUTICO DE MACAU",
+      "lat": 22.204464,
+      "stationId": "67131"
+    },
+    {
+      "code": "M130",
+      "lng": 113.54239,
+      "name": "LAM MAU / VAN SION SON CHUN",
+      "lat": 22.205242,
+      "stationId": "67189"
+    },
+    {
+      "code": "M126",
+      "lng": 113.53954,
+      "name": "LAM MAU / LA MAGNÍFÍCENCE",
+      "lat": 22.204418,
+      "stationId": "67190"
+    },
+    {
+      "code": "M95/3",
+      "lng": 113.541755,
+      "name": "RUA NORTE DO PATANE/BACIA NORTE DO PATANE",
+      "lat": 22.208841,
+      "stationId": "67284"
+    },
+    {
+      "code": "M93",
+      "lng": 113.54119,
+      "name": "THE PRAIA / TERMINAL",
+      "lat": 22.205585,
+      "stationId": "67309"
+    },
+    {
+      "code": "M108/2",
+      "lng": 113.541534,
+      "name": "R. DO COMANDANTE JOÃO BELO / EDF. LOK YEUNG FA YUEN",
+      "lat": 22.207664,
+      "stationId": "67493"
+    },
+    {
+      "code": "M102",
+      "lng": 113.54041,
+      "name": "RUA DA DOCA SECA",
+      "lat": 22.206747,
+      "stationId": "67571"
+    },
+    {
+      "code": "M20/2",
+      "lng": 113.54362,
+      "name": "BAIRRO DA ILHA VERDE/TERMINAL",
+      "lat": 22.211987,
+      "stationId": "68790"
+    },
+    {
+      "code": "M20/3",
+      "lng": 113.543434,
+      "name": "BAIRRO DA ILHA VERDE/TERMINAL",
+      "lat": 22.211853,
+      "stationId": "68791"
+    },
+    {
+      "code": "M20/6",
+      "lng": 113.54374,
+      "name": "BAIRRO DA ILHA VERDE/TERMINAL",
+      "lat": 22.211695,
+      "stationId": "68809"
+    },
+    {
+      "code": "M60",
+      "lng": 113.54148,
+      "name": "QINGMAO / AV. DO COMENDADOR HO YIN",
+      "lat": 22.211485,
+      "stationId": "68929"
+    },
+    {
+      "code": "M120/2",
+      "lng": 113.53916,
+      "name": "RUA DE FÁI CHI KEI / ESCOLA KWONG TAI",
+      "lat": 22.205917,
+      "stationId": "69230"
+    },
+    {
+      "code": "M21/2",
+      "lng": 113.5437,
+      "name": "CONS. BORJA / EDF. MAYFAIR GARDEN",
+      "lat": 22.210669,
+      "stationId": "69249"
+    },
+    {
+      "code": "M213",
+      "lng": 113.53906,
+      "name": "R. DO COMANDANTE JOÃO BELO / EDF. FAI FU",
+      "lat": 22.206993,
+      "stationId": "69509"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "resultCode": "0000"
+  },
+  "list": [
+    {
+      "code": "T314/2",
+      "lng": 113.559875,
+      "name": "JARDIM LAMEIRAS",
+      "lat": 22.15641,
+      "stationId": "10055"
+    },
+    {
+      "code": "T318",
+      "lng": 113.55948,
+      "name": "EDF. CHUN YUET GARDEN",
+      "lat": 22.156288,
+      "stationId": "10060"
+    },
+    {
+      "code": "T319",
+      "lng": 113.55923,
+      "name": "PISCINAS DO CARMO",
+      "lat": 22.15498,
+      "stationId": "10061"
+    },
+    {
+      "code": "T320",
+      "lng": 113.55715,
+      "name": "RUA DO CUNHA",
+      "lat": 22.15306,
+      "stationId": "10062"
+    },
+    {
+      "code": "T321/2",
+      "lng": 113.5553,
+      "name": "ESCOLA LUSO CHINESA DA TAIPA",
+      "lat": 22.15216,
+      "stationId": "10063"
+    },
+    {
+      "code": "T324/1",
+      "lng": 113.55501,
+      "name": "ESTÁDIO DE MACAU",
+      "lat": 22.15541,
+      "stationId": "10066"
+    },
+    {
+      "code": "T327",
+      "lng": 113.549706,
+      "name": "JOCKEY CLUB",
+      "lat": 22.15698,
+      "stationId": "10070"
+    },
+    {
+      "code": "T347",
+      "lng": 113.55246,
+      "name": "ESTÁDIO / CENTRO DE SPORTIVO",
+      "lat": 22.154943,
+      "stationId": "10097"
+    },
+    {
+      "code": "T361",
+      "lng": 113.5527,
+      "name": "ESTÁDIO / JOCKEY CLUB",
+      "lat": 22.155857,
+      "stationId": "10113"
+    },
+    {
+      "code": "T366",
+      "lng": 113.55989,
+      "name": "EST. BAÍA N. S. ESPERANÇA / MANGAL",
+      "lat": 22.1501,
+      "stationId": "10118"
+    },
+    {
+      "code": "T368",
+      "lng": 113.5589,
+      "name": "AVENIDA OLÍMPICA",
+      "lat": 22.156513,
+      "stationId": "10120"
+    },
+    {
+      "code": "T423",
+      "lng": 113.55243,
+      "name": "AV. M. FLOR DE LÓTUS / BROADWAY",
+      "lat": 22.145788,
+      "stationId": "65871"
+    },
+    {
+      "code": "T421",
+      "lng": 113.55085,
+      "name": "POUSADA MARINA INFANTE",
+      "lat": 22.15057,
+      "stationId": "65872"
+    },
+    {
+      "code": "T422",
+      "lng": 113.55266,
+      "name": "AV. M. FLOR DE LÓTUS / GALAXY-2",
+      "lat": 22.145212,
+      "stationId": "65874"
+    },
+    {
+      "code": "T324/2",
+      "lng": 113.554955,
+      "name": "ESTÁDIO DE MACAU",
+      "lat": 22.15544,
+      "stationId": "67035"
+    },
+    {
+      "code": "T314/1",
+      "lng": 113.55986,
+      "name": "JARDIM LAMEIRAS",
+      "lat": 22.156345,
+      "stationId": "67572"
+    },
+    {
+      "code": "T440",
+      "lng": 113.55753,
+      "name": "CHUN SU MEI / TERMINAL",
+      "lat": 22.154509,
+      "stationId": "67629"
+    },
+    {
+      "code": "T306",
+      "lng": 113.562996,
+      "name": "EST. GOV. NOBRE CARVALHO",
+      "lat": 22.153429,
+      "stationId": "68409"
+    },
+    {
+      "code": "T328",
+      "lng": 113.544106,
+      "name": "AV. DOS JOGOS DA ÁSIA ORIENTAL / ROOSEVELT",
+      "lat": 22.153816,
+      "stationId": "68469"
+    },
+    {
+      "code": "T326/1",
+      "lng": 113.5461,
+      "name": "ESTRADA GOV. A. OLIVEIRA",
+      "lat": 22.156982,
+      "stationId": "68889"
+    },
+    {
+      "code": "T326/2",
+      "lng": 113.54588,
+      "name": "ESTRADA GOV. A. OLIVEIRA",
+      "lat": 22.15698,
+      "stationId": "68890"
+    },
+    {
+      "code": "T326/3",
+      "lng": 113.54566,
+      "name": "ESTRADA GOV. A. OLIVEIRA",
+      "lat": 22.157158,
+      "stationId": "68891"
+    },
+    {
+      "code": "T326/5",
+      "lng": 113.54622,
+      "name": "ESTRADA GOV. A. OLIVEIRA",
+      "lat": 22.157171,
+      "stationId": "68892"
+    },
+    {
+      "code": "T326/4",
+      "lng": 113.54593,
+      "name": "ESTRADA GOV. A. OLIVEIRA",
+      "lat": 22.157164,
+      "stationId": "68909"
+    }
+  ]
+}
