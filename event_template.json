@@ -1,0 +1,20 @@
+{
+  "id": "",
+  "name": "",
+  "month": "",
+  "shortDesc": "",
+  "location": [
+    {
+      "name": "",
+      "coordinate": ["", ""]
+    }
+  ],
+  "types": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "eventDate": "",
+  "showDate": ""
+}
