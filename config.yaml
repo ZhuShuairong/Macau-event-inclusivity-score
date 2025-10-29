@@ -1,0 +1,44 @@
+# Event Inclusivity Scorer Configuration
+
+# Model Configuration
+model:
+  directory: "./models/roberta-base"
+  label_mappings: "./models/label_mappings.pkl"
+  max_length: 256
+  threshold: 0.5
+
+# Data Paths
+data:
+  parking: "./data/parking/carparks_with_category.csv"
+  road_traffic: "./data/traffic/merged_road_traffic.csv"
+  zone_traffic: "./data/traffic/merged_zone_traffic.csv"
+  bus_stops_dir: "./data/bus_stops"
+
+# Inclusivity Score Weights (must sum to 1.0)
+weights:
+  bus_proximity: 0.08
+  parking_proximity: 0.08
+  parking_category: 0.04
+  traffic_level: 0.05
+  visitor_density: 0.05
+  cost_accessibility: 0.20
+  complexity_accessibility: 0.20
+  activity_accessibility: 0.15
+  age_diversity: 0.15
+
+# Distance Normalization (km)
+distance_normalization:
+  bus_max_km: 2.0
+  parking_max_km: 1.5
+
+# Parking Category Scores
+parking_scores:
+  Commercial: 1.0
+  Work: 0.6
+  Residential: 0.3
+  unknown: 0.5
+
+# Output Configuration
+output:
+  directory: "./output"
+  format: "json"  # json or csv
