@@ -81,10 +81,10 @@ This README documents the data processing pipeline used to generate 10 visualiza
 - Assign temporal categories (e.g., recent, past year, historical)
 - Create point geometries from lat/lon
 - Spatial join with Macau boundaries
-- Apply recency-based color gradient
+- Apply recency-based alpha
 
 **Significance**: 
-Shows the spatial distribution of events over time, revealing which districts host more recent vs historical events. Helps identify shifting cultural/activity centers and temporal patterns in event hosting.
+Shows the spatial distribution of events over time, revealing which districts host more recent vs historical events. Helps identify shifting cultural/activity centers and temporal patterns in event hosting. Areas that have high alpha are more recent and more prominent, may include recent venues built, and low alpha may be locations that are changed.
 
 ---
 
@@ -100,8 +100,6 @@ Shows the spatial distribution of events over time, revealing which districts ho
 - Extract route information from each station's route list
 - Build network graph connecting stops sharing common routes
 - Create LineString geometries between connected stops
-- Aggregate route density by segment
-- Apply network topology visualization with edge weights
 
 **Significance**: 
 Visualizes the comprehensive public transit network, identifying major transit corridors, route overlaps, and network connectivity. Critical for assessing public transportation accessibility across Macau.
@@ -116,14 +114,13 @@ Visualizes the comprehensive public transit network, identifying major transit c
 
 **Manipulation**:
 - Load all bus stop JSON files
-- Count number of routes serving each station (`len(entity['routes'])`)
+- Count number of routes serving each station
 - Create point geometries from lat/lon
 - Normalize route counts to [0,1] scale
-- Calculate marker sizes: `size = 150 + normalized_routes * 6850`
 - Apply color gradient (yellow to dark red) based on route density
 
 **Significance**: 
-Highlights transportation hubs and identifies areas with high vs low transit service. Darker/larger markers indicate major interchange points. Essential for understanding transit accessibility disparities.
+Highlights transportation hubs and identifies areas with high vs low transit service. Darker markers indicate major interchange points. Essential for understanding transit accessibility disparities.
 
 ---
 
@@ -138,13 +135,13 @@ Highlights transportation hubs and identifies areas with high vs low transit ser
 - Map Chinese district names to English using translation dictionary
 - Create point geometries from coordinates
 - Assign categorical colors:
-  - Commercial: Blue (public accessible)
-  - Residential: Orange (restricted)
-  - Work: Green (business hours only)
+  - Other: Grey
+  - Residential: Blue 
+  - Work: Red
 - Plot with category-based legend
 
 **Significance**: 
-Shows spatial distribution of parking facilities by accessibility type. Commercial parking indicates public access points, while residential/work lots show restricted areas. Critical for understanding parking accessibility for events and tourism.
+Shows spatial distribution of parking facilities by type. Critical for understanding parking accessibility for events and tourism, as it helps predict whether the parking lot will be full at a certain time.
 
 ---
 
@@ -162,7 +159,7 @@ Shows spatial distribution of parking facilities by accessibility type. Commerci
 - Added statistical text box with total count
 
 **Significance**: 
-Provides simple overview of all parking facility locations without categorization. Useful for quickly assessing overall parking infrastructure coverage across Macau's districts.
+Provides simple overview of all parking facility locations without categorization. Useful for quickly assessing overall parking infrastructure coverage across Macau's districts. Used to filter out parking lots provided with incorrect longitude and latitude.
 
 ---
 
@@ -267,7 +264,7 @@ Area-based representation of tourist density, complementing point-based view. Sh
 - Apply consistent color scheme
 
 **Significance**: 
-Identifies parking lots with consistently high vs low utilization. High-utilization lots indicate popular areas with potential parking scarcity. Low-utilization lots may indicate underserved areas or excess capacity. Informs parking infrastructure optimization and event planning.
+Identifies parking lots with consistently high vs low utilization. High-utilization lots indicate popular areas with potential parking scarcity. Low-utilization lots may indicate underserved areas or excess capacity. Informs parking infrastructure optimization and event planning. Also shows that patterns exist in the parking lot occupancy, matching hypothesised values. Used to categorize which parking lots are for residence, and which is for work.
 
 ---
 
