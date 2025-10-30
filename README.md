@@ -68,11 +68,11 @@ print(f"Inclusivity Score: {result['inclusivity_score_100']:.2f}/100")
 Place your data files in the following structure:
 
 data/
-├── parking/carparks_with_category.csv
-├── traffic/
-│ ├── merged_road_traffic.csv
-│ └── merged_zone_traffic.csv
-└── bus_stops/*.json
+- parking/carparks_with_category.csv
+- traffic/
+- - merged_road_traffic.csv
+- - merged_zone_traffic.csv
+- bus_stops/*.json
 
 **Required columns:**
 - `carparks_with_category.csv`: `name`, `category`, (optional: `latitude`, `longitude`)
