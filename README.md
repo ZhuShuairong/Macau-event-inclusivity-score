@@ -102,6 +102,36 @@ age_diversity: 0.10 # Decrease demographic factor
 distance_normalization:
 bus_max_km: 3.0 # Expand acceptable bus distance
 
+## Model Comparison
+
+| Model | Best Hamming Loss | Final Accuracy | Training Time (min) |
+|-------|-------------------|----------------|---------------------|
+| distilbert-base-uncased | 0.2342 | 0.2100 | 0.98 |
+| roberta-base | 0.2000 | 0.3300 | 1.82 |
+| albert-base-v2 | 0.2250 | 0.2700 | 1.83 |
+
+### Best Model: roberta-base 🏆
+
+- Hamming Loss: 0.2000
+- Accuracy: 0.3300
+
+## Final Results for RoBERTa-base
+
+- Best Hamming Loss: 0.2000
+- Final Accuracy: 0.3300
+- Training time: 1.82 minutes
+
+### Per-Category Performance
+
+| Category | Accuracy |
+|----------|----------|
+| activity_level | 0.8700 |
+| complexity | 0.8700 |
+| cost | 0.7300 |
+| noise_level | 0.8200 |
+| cultural_type | 0.7800 |
+| audience_scope | 0.6900 |
+
 ## Event Template
 
 Use `event_template.json` to format your events:
